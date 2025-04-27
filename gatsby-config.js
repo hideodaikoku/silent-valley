@@ -9,15 +9,16 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `silent valley`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `hideodaikoku`,
+      summary: `founder, creative director and techinical artist at amphibian studios inc.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `the story of silent valley, updated periodically`,
+    siteUrl: `https://silentvalley.wavecut.dev/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `hideodaikoku`,
+      instagram: `hideodaikoku`,
     },
   },
   plugins: [
@@ -118,7 +119,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/wavecut.png`, // This path is relative to the root of the site.
       },
     },
   ],

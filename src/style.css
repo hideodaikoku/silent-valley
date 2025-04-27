@@ -27,12 +27,13 @@
   --spacing-20: 5rem;
   --spacing-24: 6rem;
   --spacing-32: 8rem;
-  --fontFamily-sans: "MontserratVariable", system-ui, -apple-system,
+  --fontFamily-sans: "Noto Sans", system-ui, -apple-system,
     BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans",
     sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
     "Noto Color Emoji";
   --fontFamily-serif: "Merriweather", "Georgia", Cambria, "Times New Roman",
     Times, serif;
+  --fontFamily-mono: "Fira Code", Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   --font-body: var(--fontFamily-serif);
   --font-heading: var(--fontFamily-sans);
   --fontWeight-normal: 400;
@@ -52,12 +53,12 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
-  --color-text: #2e353f;
-  --color-text-light: #4f5969;
+  --color-primary: #ff5656;
+  --color-text: #3c3c3c;
+  --color-text-light: #121212;
   --color-heading: #1a202c;
-  --color-heading-black: black;
-  --color-accent: #d1dce5;
+  --color-heading-black: rgb(80, 80, 80);
+  --color-accent: #2d2d2d;
 }
 
 /* HTML elements */
@@ -111,12 +112,12 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: var(--fontWeight-bold);
+  font-weight: var(--fontWeight-regular);
   color: var(--color-heading);
 }
 
 h1 {
-  font-weight: var(--fontWeight-black);
+  font-weight: var(--fontWeight-regular);
   font-size: var(--fontSize-6);
   color: var(--color-heading-black);
 }
@@ -155,6 +156,12 @@ h6 > a {
   color: inherit;
 }
 
+.language-text{
+  font-family: var(--font-body);
+  font-size: var(--fontSize-1);
+  line-height: var(--lineHeight-tight);
+  color: var(--color-text-dark);
+}
 /* Prose */
 
 p {

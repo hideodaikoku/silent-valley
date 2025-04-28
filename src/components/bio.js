@@ -44,7 +44,7 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          written by <strong>{author.name}</strong>
+          &copy; 2025, <strong>{author.name}</strong>, all rights reserved
         </p>
       )}
     </div>

@@ -18,7 +18,7 @@ description: "welcome to the hunt"
 > at the fatalism of it all \
 > that reality might be \
 > but three steps away from the closest \
-> phone booth, dial the number \
+> booth, dial the number \
 > exitsimulation \
 > — the shepherd :: year 001, post eclipse
 

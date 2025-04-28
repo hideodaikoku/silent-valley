@@ -96,5 +96,3 @@ Two antlers grew from the base of his head, as he twisted into a seven foot tall
 > ***+touch+***
 
 And with a hush, he disappeared into a slit in the fabric of the forest. Not a sound or soul could see or hear or perceive.
-
-All until the eclipse.

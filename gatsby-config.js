@@ -12,7 +12,7 @@ module.exports = {
     title: `silent valley`,
     author: {
       name: `hideodaikoku`,
-      summary: `founder, creative director and techinical artist at amphibian studios inc.`,
+      summary: `technical artist at amphibian studios inc.`,
     },
     description: `the story of silent valley, updated periodically`,
     siteUrl: `https://silentvalley.wavecut.dev/`,

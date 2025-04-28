@@ -53,15 +53,17 @@ Each year, **silent_valley** would commemorate a countdown to **the_flash** with
 
 
 
-All the animals of **silent_valley** cowered in his shadow, and in exchange for his mercy, they offered him trinkets of service. Over the years, **the_tiger** had created an empire of sorts - a drug ring he called **the candy factory**. The factory produced a cheap drug-like pill that kept all the animals of **silent_valley** in a cycle of endless addiction and servitude. He sold the candy to neighboring warlords in exchange for **lotus seeds**, **photons**, and **silvergrass** - a common currency in the dark frugality of **silent_valley**.
+All the animals of **silent_valley** cowered in his shadow, and in exchange for his mercy, they offered him trinkets of service. Over the years, **the_tiger** had created an empire of sorts - a drug ring he called **the candy factory**. The factory produced a cheap drug-like pill that kept all the animals of **silent_valley** in a cycle of endless addiction and servitude. He sold the candy to neighboring warlords in exchange for **photons**.
 
 
 
-**the_tiger** looked at the faint shadow of the moon. full moon. 
+**the_tiger** looked at the faint shadow of the moon.
+
+> **+full moon+**, he thought
 
 He sniffed the air for the scent of ashen blood dust. 
 
-It was there. 
+> **musty**, he reminisced
 
 Faint, lingering, but it was certainly there. 
 
@@ -71,7 +73,7 @@ The weight of his ancestors knew what that meant.
 
 It was time for **the_hunt** to begin.
 
-
++
 
 **the_tiger** rose up from his seat and growled, blinking one eye at a time. The archers dipped their arrows in fire from the trees and shot. **the_ape** rang the bell of **the_hunt**. The boar squealed and writhed in anticipation from the shackles of his iron cage. The battle drums of **silent_valley** started to turn the forest floor into a ritual ground for sacrifice. And so began the beginning of the hunt.
 
@@ -103,7 +105,7 @@ It was time for **the_hunt** to begin.
 
 ++
 
-A hooded figure stood above the puddle of blood from the remains of the boar's carcass. he had pale skin with silver white tattoos running like circuitry around his entire body. he was neither dead nor a live - but rather a ghost. 
+A hooded figure stood above the puddle of blood from the remains of the boar's carcass. he had pale skin with silver white tattoos running like circuitry around his entire body. he was neither dead nor a live - silken and translucent like ghost of pale circuitry. 
 
 >  **"+scent+"** he thought
 
@@ -121,8 +123,8 @@ With a hush, he disappeared into a slit in the fabric of the forest. Not a sound
 
 all that was left was a silver pool.
 
-> **-blink-**
+> **-vision-**
 
 somewhere in the depths of **the_spiral**, at that very same moment, a faint light emerged in the abyss.
 
-==
+::::

@@ -26,6 +26,7 @@ description: "welcome to the hunt"
 
 In the waking hours of the hour of the fowl, the forest floor of **silent_valley** was quiet, in the third season of the hunt. Except if you listened carefully. The trees would murmur to each other, singing bittersweet melodies of the times before the great beginning. Down beyond the faintness of the settling dust was a river that slipped between the whispers of the leaves and soon began to beckon to fainter lips of a desolate sigh. But if you listened closer, you would notice that the forest was full of life. Gentle butterflies and little insects, the morning worm chased by the hungry badger, a mynah bird on the boughs.
 
+![treetops](./treetops.png)
 
 
 The forest was shrouded in mist; one could barely see past the serpentine vines of the thicket. A blossoming veil, billowing in the stillness of the earthen slumber. A deep tone, dark and beckoning, spoke to the darkness of silent valley. There was no sun, and no light, save for the ocean of despair in the departure of life.
@@ -56,12 +57,13 @@ The tiger looked at the moon and sniffed the air for the scent of ashen blood. I
 
 It was time for the hunt to begin.
 
-![The hunt](./hunt.jpg)
 
 
 The tiger rose up from his seat and growled, blinking one eye at a time. The archers dipped their arrows in fire from the trees and shot. **The ape** rang the bell of the hunt. The boar squealed and writhed in anticipation from the shackles of his iron cage. The battle drums of silent valley started to turn the forest floor into a ritual ground for sacrifice. And so began the beginning of the hunt.
 
+![The hunt](./the-hunt.png)
 
+--
 
 > the hunt begins with an arrow in the sky \
 > the Boar knows he must run \
@@ -82,6 +84,7 @@ The tiger rose up from his seat and growled, blinking one eye at a time. The arc
 > the forest breathes, anticipating \
 > rain, dust and sunny days \
 > — the ape
+
 ---
 ++
 
@@ -95,4 +98,6 @@ Two antlers grew from the base of his head, as he twisted into a seven foot tall
 
 > ***+touch+***
 
-And with a hush, he disappeared into a slit in the fabric of the forest. Not a sound or soul could see or hear or perceive.
+And with a hush, he disappeared into a slit in the fabric of the forest. Not a sound or soul could see or hear or perceive where he had been.
+
+All until his return on the day of the eclipse

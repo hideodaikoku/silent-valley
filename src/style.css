@@ -51,12 +51,12 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #ff5656;
-  --color-text: #3c3c3c;
-  --color-text-light: #121212;
-  --color-heading: #1a202c;
-  --color-heading-black: rgb(80, 80, 80);
-  --color-accent: #2d2d2d;
+  --color-primary: #ffbf00;
+  --color-text: #cdcdcd;
+  --color-text-light: #ffffff;
+  --color-heading: #888888;
+  --color-heading-black: rgb(255, 255, 255);
+  --color-accent: #ffaa00;
 }
 
 /* HTML elements */
@@ -76,6 +76,8 @@ html {
 
 body {
   font-family: var(--font-body);
+  background-color: #121212;
+  color:  var(--color-text);
 }
 
 footer {
@@ -115,7 +117,7 @@ h6 {
 h1 {
   font-weight: var(--fontWeight-regular);
   font-size: var(--fontSize-6);
-  color: var(--color-heading-black);
+  color: var(--color-heading);
 }
 
 h2 {
@@ -156,12 +158,13 @@ h6 > a {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   line-height: var(--lineHeight-tight);
-  color: var(--color-text-dark);
+  color: var(--color-text-light);
 }
 /* Prose */
 
 p {
   line-height: var(--lineHeight-relaxed);
+  color:  var(--color-text);
   --baseline-multiplier: 0.179;
   --x-height-multiplier: 0.35;
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0);

@@ -24,7 +24,7 @@ description: "welcome to the hunt"
 
 
 
-In the waking hours of the hour of the fowl, the forest floor of **silent_valley** was quiet, in the third season of the hunt. Except if you listened carefully. The trees would murmur to each other, singing bittersweet melodies of the times before the great beginning. Down beyond the faintness of the settling dust was a river that slipped between the whispers of the leaves and soon began to beckon to fainter lips of a desolate sigh. But if you listened closer, you would notice that the forest was full of life. Gentle butterflies and little insects, the morning worm chased by the hungry badger, a mynah bird on the boughs.
+In the waking hours of the hour of the fowl, the forest floor of **silent_valley** was quiet, in the third season of **the hunt**. Except if you listened carefully. The trees would murmur to each other, singing bittersweet melodies of the times before the great beginning. Down beyond the faintness of the settling dust was a river that slipped between the whispers of the leaves and soon began to beckon to fainter lips of a desolate sigh. But if you listened closer, you would notice that the forest was full of life. Gentle butterflies and little insects, the morning worm chased by the hungry badger, a mynah bird on the boughs.
 
 ![treetops](./treetops.png)
 
@@ -33,7 +33,7 @@ The forest was shrouded in mist; one could barely see past the serpentine vines 
 
 
 
-Beyond the berry bushes and willow trees of the wilderness of the pine grove was **the spiral** :: a long concrete receptacle in the shape of a hollowed out ark. The wall had no doors and no openings, no cracks, and no windows. A large concrete slab, free of vines, creepers or moss. It almost seemed out of place amidst the thickness of the jungle. Who had put it there?
+Beyond the berry bushes and willow trees of the wilderness of the pine grove was **the spiral** :: a long concrete receptacle in the shape of a hollowed out ark. **the spiral** had no doors and no openings, no cracks, and no windows. A large concrete slab, free of vines, creepers or moss. It almost seemed out of place amidst the thickness of the jungle. Who had put it there?
 
 
 
@@ -45,7 +45,7 @@ The animals had all sorts of myths about **the spiral**. To the best of their kn
 
 ![Silent Valley](silent-valley.jpg)
 
-Each year, the animals would celebrate a countdown to **the flash** with **the hunt**. As tradition would permit, the tiger king of silent valley would be bestowed with the honor of ringing the bell to commemorate the start of trinity. All the animals would gather around: the wolves, monkeys, boars, horses, and snakes.
+Each year, the animals would celebrate a countdown to **the flash** with **the hunt**. As tradition would permit, the tiger king of silent valley would be bestowed with the honor of ringing the bell to commemorate the start of **the flash**. All the animals would gather around: the wolves, monkeys, boars, horses, and snakes.
 
 
 
@@ -59,7 +59,7 @@ It was time for the hunt to begin.
 
 
 
-The tiger rose up from his seat and growled, blinking one eye at a time. The archers dipped their arrows in fire from the trees and shot. **The ape** rang the bell of the hunt. The boar squealed and writhed in anticipation from the shackles of his iron cage. The battle drums of silent valley started to turn the forest floor into a ritual ground for sacrifice. And so began the beginning of the hunt.
+The tiger rose up from his seat and growled, blinking one eye at a time. The archers dipped their arrows in fire from the trees and shot. **The ape** rang the bell of **the hunt**. The boar squealed and writhed in anticipation from the shackles of his iron cage. The battle drums of silent valley started to turn the forest floor into a ritual ground for sacrifice. And so began the beginning of the hunt.
 
 ![The hunt](./the-hunt.png)
 

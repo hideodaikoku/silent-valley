@@ -100,6 +100,4 @@ Two antlers grew from the base of his head, as he twisted into a seven foot tall
 
 And with a hush, he disappeared into a slit in the fabric of the forest. Not a sound or soul could see or hear or perceive where he had been.
 
-Not until the next flash. On the day of the eclipse.
-
 🌙☀️🪷

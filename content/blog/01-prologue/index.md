@@ -107,7 +107,7 @@ It was time for **the_hunt** to begin.
 
 A hooded figure stood above the puddle of blood from the remains of the boar's carcass. he had pale skin with silver white tattoos running like circuitry around his entire body. he was neither dead nor alive. **the_figure** was silken and translucent like a bioluminescent ghost. 
 
->  ***"+scent+"*** he thought
+>  ***"+scent+"** he thought
 
 **the_figure** stooped down and took a flask of the boar's bones and muttered a hymn of requisition.
 
@@ -115,7 +115,7 @@ A hooded figure stood above the puddle of blood from the remains of the boar's c
 
 with three dots on the forest floor the figure drew a diffusion map. 
 
-![diffusion](./diffusion.png/)
+![diffusion](./diffusion.png)
 
 the sand of the forest floor began to shift into a pattern of twisting roots. water seeped into the center of the hole at the base of **the_figure**'s feet. it rose to his knees, and as he looked up, two antlers grew from the base of his head, as he twisted into a seven foot tall shadow of a humanoid elk hybrid. 
 

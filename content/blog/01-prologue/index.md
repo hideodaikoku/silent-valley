@@ -53,17 +53,17 @@ Each year, **silent_valley** would commemorate a countdown to **the_flash** with
 
 
 
-All the animals of **silent_valley** cowered in his shadow, and in exchange for his mercy, they offered him trinkets of service. Over the years, **the_tiger** had created an empire of sorts - a drug ring he called **the candy factory**. The factory produced a cheap drug-like pill that kept all the animals of **silent_valley** in a cycle of endless addiction and servitude. He sold the candy to neighboring warlords in exchange for **photons**.
+All the animals of **silent_valley** cowered in his shadow, and in exchange for his mercy, they offered him trinkets of service. Over the years, **the_tiger** had created an empire of sorts - a drug ring he called **the candy factory**. The factory produced a cheap drug-like "candy" that kept all the animals of **silent_valley** in a cycle of addiction and servitude. He sold **the_candy** to neighboring warlords in exchange for **photons**.
 
 
 
 **the_tiger** looked at the faint shadow of the moon.
 
-> **+full moon+**, he thought
+> **+full moon+**, he thought, **four_blinks**
 
 He sniffed the air for the scent of ashen blood dust. 
 
-> **musty**, he reminisced
+> **musty**, he reminisced. **two_blinks**
 
 Faint, lingering, but it was certainly there. 
 
@@ -105,15 +105,19 @@ It was time for **the_hunt** to begin.
 
 ++
 
-A hooded figure stood above the puddle of blood from the remains of the boar's carcass. he had pale skin with silver white tattoos running like circuitry around his entire body. he was neither dead nor a live - silken and translucent like ghost of pale circuitry. 
+A hooded figure stood above the puddle of blood from the remains of the boar's carcass. he had pale skin with silver white tattoos running like circuitry around his entire body. he was neither dead nor alive. **the_figure** was silken and translucent like a bioluminescent ghost. 
 
->  **"+scent+"** he thought
+>  ***"+scent+"*** he thought
 
 **the_figure** stooped down and took a flask of the boar's bones and muttered a hymn of requisition.
 
 **the_figure** wrote down an inscription on the flask and slipped it into his bag of vials. 
 
-with three dots on the forest floor the figure drew a diffusion map. the sand of the forest floor began to shift into a pattern of twisting roots. water seeped into the center of the hole at the base of **the_figure**'s feet. it rose to his knees, and as he looked up, two antlers grew from the base of his head, as he twisted into a seven foot tall shadow of a humanoid elk hybrid. 
+with three dots on the forest floor the figure drew a diffusion map. 
+
+![diffusion](./diffusion.png/)
+
+the sand of the forest floor began to shift into a pattern of twisting roots. water seeped into the center of the hole at the base of **the_figure**'s feet. it rose to his knees, and as he looked up, two antlers grew from the base of his head, as he twisted into a seven foot tall shadow of a humanoid elk hybrid. 
 
 His eyes constricted into narrow slits, as his spirit became one with the silence of the forest.
 
@@ -123,8 +127,6 @@ With a hush, he disappeared into a slit in the fabric of the forest. Not a sound
 
 all that was left was a silver pool.
 
-> **-vision-**
+> ***+vision+***
 
 somewhere in the depths of **the_spiral**, at that very same moment, a faint light emerged in the abyss.
-
-:::::::::::::::::::::::::::::::

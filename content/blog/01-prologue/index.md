@@ -73,7 +73,7 @@ The weight of his ancestors knew what that meant.
 
 It was time for **the_hunt** to begin.
 
-+
+++
 
 **the_tiger** rose up from his seat and growled, blinking one eye at a time. The archers dipped their arrows in fire from the trees and shot. **the_ape** rang the bell of **the_hunt**. The boar squealed and writhed in anticipation from the shackles of his iron cage. The battle drums of **silent_valley** started to turn the forest floor into a ritual ground for sacrifice. And so began the beginning of the hunt.
 
@@ -127,4 +127,4 @@ all that was left was a silver pool.
 
 somewhere in the depths of **the_spiral**, at that very same moment, a faint light emerged in the abyss.
 
-::::
+:::::::::::::::::::::::::::::::

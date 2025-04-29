@@ -20,6 +20,7 @@ const Bio = () => {
           }
           social {
             twitter
+            instagram
           }
         }
       }
@@ -44,9 +45,10 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          &copy; 2025, <strong>{author.name}</strong>, all rights reserved
+          &copy; 2025, <a href={author.social.instagram}>{author.name}</a>, all rights reserved
         </p>
       )}
+      <p>buy me a coffee ☕️ <a href="https://ko-fi.com/hideodaikoku">ko-fi</a></p>
     </div>
   )
 }

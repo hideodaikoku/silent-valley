@@ -17,7 +17,6 @@ module.exports = {
     description: `the story of silent valley, updated periodically`,
     siteUrl: `https://silentvalley.wavecut.dev/`,
     social: {
-      twitter: `hideodaikoku`,
       instagram: `hideodaikoku`,
     },
   },

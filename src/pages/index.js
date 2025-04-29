@@ -27,20 +27,21 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      {/* <Bio /> */}
+      <img
+        src={silentValleyImage}
+        alt="Silent Valley"
+        style={{ width: "100%", height: "auto", marginBottom: "1rem" }}
+      />
+      <hr />
+      <h2>table of contents</h2>
       <ol style={{ listStyle: `none` }}>
-        {posts.map(post => {
+        {posts
+        .sort((a, b) => a.frontmatter.chapter < b.frontmatter.chapter)
+        .map(post => {
           const title = post.frontmatter.title || post.fields.slug
 
           return (
             <div>
-              <img
-                src={silentValleyImage}
-                alt="Silent Valley"
-                style={{ width: "100%", height: "auto", marginBottom: "1rem" }}
-              />
-              <hr/>
-              <h2>table of contents</h2>
               <li key={post.fields.slug}>
                 <article
                   className="post-list-item"
@@ -98,6 +99,7 @@ export const pageQuery = graphql`
         frontmatter {
           year
           title
+          chapter
           description
         }
       }

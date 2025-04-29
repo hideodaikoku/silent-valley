@@ -326,7 +326,24 @@ a:focus {
 }
 
 .gatsby-highlight {
-  margin-bottom: var(--spacing-8);
+  background-color: #1e1e1e; /* Dark background for code blocks */
+  color: limegreen; /* Default text color */
+  padding: var(--spacing-6); /* Add padding around the code block */
+  border-radius: 8px; /* Rounded corners */
+  overflow-x: auto; /* Enable horizontal scrolling for long lines */
+  margin-bottom: var(--spacing-8); /* Space below the code block */
+  font-family: "Fira Code", monospace; /* Use a monospace font for code */
+  font-size: var(--fontSize-1); /* Adjust font size */
+  line-height: var(--lineHeight-relaxed); /* Adjust line height */
+}
+
+.language-text{
+  background: none !important;
+}
+
+.language-text code{
+  color: limegreen !important;
+  text-shadow: none !important;
 }
 
 /* Media queries */

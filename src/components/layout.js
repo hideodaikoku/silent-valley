@@ -27,7 +27,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}
         {` `}
-        <a href="https://amphibianstudios.substack.com">amphibian studios inc.</a>
+        <a href="https://amphibian-studios.com">amphibian studios inc.</a>
       </footer>
     </div>
   )

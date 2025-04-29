@@ -50,7 +50,7 @@ const Bio = () => {
             <a
               href={`https://instagram.com/` + social.instagram}
               target="_blank"
-              noopener
+              noopener="true"
               rel="noreferrer"
             >
               {author.name}

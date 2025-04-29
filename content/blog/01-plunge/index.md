@@ -1,8 +1,8 @@
 ---
-title: plunge  
+title: 01 plunge  
 chapter: 2  
-description: Footsteps of a Spirit  
-year: y000::m0::d1  
+description: footsteps of the spirit  
+year: y000 m0 d1  
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: prologue
+title: 00 prologue
 chapter: 1
 description: "welcome to the hunt"
-year: y000::m0::d1
+year: y000 m0 d1
 ---
 
 > reality is held in balance by \

@@ -1,6 +1,6 @@
 ---
 title: prologue
-date: "2025-04-28T04:26:09"
+year: y000
 description: "welcome to the hunt"
 ---
 

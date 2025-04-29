@@ -17,7 +17,6 @@ const Seo = ({ description, title, children }) => {
             title
             description
             social {
-              twitter
               instagram
             }
           }
@@ -41,8 +40,6 @@ const Seo = ({ description, title, children }) => {
         name="twitter:creator"
         content={site.siteMetadata?.social?.twitter || ``}
       />
-      <meta name="twitter:title" content={title} />
-      <meta name="twitter:description" content={metaDescription} />
       {children}
     </>
   )

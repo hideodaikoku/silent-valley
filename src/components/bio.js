@@ -19,7 +19,6 @@ const Bio = () => {
             summary
           }
           social {
-            twitter
             instagram
           }
         }
@@ -43,12 +42,26 @@ const Bio = () => {
         quality={95}
         alt="Profile picture"
       />
-      {author?.name && (
+
+      <div className="footer">
+        {author?.name && (
+          <p>
+            &copy; 2025,{" "}
+            <a
+              href={`https://instagram.com/` + social.instagram}
+              target="_blank"
+              noopener
+              rel="noreferrer"
+            >
+              {author.name}
+            </a>
+            , all rights reserved
+          </p>
+        )}
         <p>
-          &copy; 2025, <a href={author.social.instagram}>{author.name}</a>, all rights reserved
+          buy me a coffee ☕️ <a href="https://ko-fi.com/hideodaikoku">ko-fi</a>
         </p>
-      )}
-      <p>buy me a coffee ☕️ <a href="https://ko-fi.com/hideodaikoku">ko-fi</a></p>
+      </div>
     </div>
   )
 }

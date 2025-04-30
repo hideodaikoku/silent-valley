@@ -1,6 +1,6 @@
 ---
 title: 02 guiding light  
-chapter: 2  
+chapter: 3  
 description: a quest for connection 
 year: y000 m0 d2  
 

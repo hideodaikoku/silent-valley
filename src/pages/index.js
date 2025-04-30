@@ -36,7 +36,7 @@ const BlogIndex = ({ data, location }) => {
       <h2>table of contents</h2>
       <ol style={{ listStyle: `none` }}>
         {posts
-        .sort((a, b) => a.frontmatter.chapter > b.frontmatter.chapter)
+        .sort((a, b) => a.frontmatter.chapter - b.frontmatter.chapter)
         .map(post => {
           const title = post.frontmatter.title || post.fields.slug
 

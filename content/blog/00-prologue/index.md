@@ -115,7 +115,7 @@ And so began the song of the hunt.
 
 A hooded figure stood above the puddle of blood where **the_boar** once fell. 
 
-he had pale skin with silver white tattoos running like circuitry around his entire body. he was neither dead nor alive. **the_figure** was silken and translucent like a bioluminescent ghost. 
+he had pale skin with silver white tattoos running like circuitry around his entire body. he was neither dead nor alive. **the_figure** was silken and translucent like a bio-luminescent ghost. 
 
 He looked around for signs of life. Nothing. The tiger left not a shred of sinew on the bones of the poor beast. 
 

@@ -54,22 +54,28 @@ the **the_probe** stopped. it remained floating there, as if beckoning **chi** t
 
 ++
 
-||||||||||///////|++++|||||||/////\\\\\\\\|||||||||||+++||||||||||------||||||||||+++++||||||
-||||||||||///////|++++|||||||_____\\\\\\\\|||||||||||+++||||||||||------||||||||||+++++||||||
-||||||||||///////|++++|||||||-----\\\\\\\\|||||||||||+++||||||||||------||||||||||+++++||||||
+> |||||||||||++++|||||||-----||||||||||| \
+> +++||||||||||------||||||||||+++++||||||\
+> |||||||||||++++|||||||_____|||||||||||+++|\
+> |||||||||------||||||||||+++++||||||\
+> |||||||||||++++|||||||-----|||||||||||+++|\
+> |||||||||------||||||||||+++++||||||
+
+++
 
 > i don't understand.
+
 
 
 ```
 > transpile()
 ```
 
-|| sing a song of earth and wind ||
-|| water, fire bright ||
-|| bring back the forest ||
-|| what the shepherd promised ||
-|| the golden eggs of light ||
+>|| sing a song of earth and wind ||\
+>|| water, fire bright ||\
+>|| bring back the forest ||\
+>|| what the shepherd promised ||\
+>|| the golden eggs of light ||
 
 ++++++
 
@@ -96,7 +102,7 @@ silence.
 
 > i guess i'll have to find a way around.
 
-**chi** snapped her fingers. **the_orb** came back towards her. it hurled itself forward again.
+**chi** snapped her fingers. **the_probe** came back towards her. it hurled itself forward again.
 
 > i'm getting the hang of this.
 
@@ -111,5 +117,34 @@ in the distance she saw what looked like a white run-down door.
 ```
 > walk()
 ```
+...
 
+<hr/>
 
+in the distance, **the_figure** re-appeared. though a slit in space.
+
+he peered down at the path from the treetops. 
+
+> "good. she figured out how to use the probe."
+
+and slipped out of sight as he watched **chi** walk towards **millet_lab**. 
+
+> "five clicks until the hunters find her. if only i could warn her."
+
+he sighed
+
+> ***+touch+***
+
+rainfall. and a warning.
+
+> "that should do it"
+
+he looked again at his wrist, and saw the circuits beginning to fade. 
+
+> not much time left for me either.
+
+six beats.
+
++click+
+
+**the_figure** vanished again. 

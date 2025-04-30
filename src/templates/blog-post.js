@@ -6,10 +6,17 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const BlogPostTemplate = ({
-  data: { previous, next, site, markdownRemark: post },
+  data: { site, markdownRemark: post, allMarkdownRemark: { nodes: allPosts } },
   location,
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
+
+  // Find the current post's index in the sorted list
+  const currentIndex = allPosts.findIndex(p => p.id === post.id)
+
+  // Determine previous and next posts based on the sorted list
+  const previous = currentIndex > 0 ? allPosts[currentIndex - 1] : null
+  const next = currentIndex < allPosts.length - 1 ? allPosts[currentIndex + 1] : null
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -75,8 +82,6 @@ export default BlogPostTemplate
 export const pageQuery = graphql`
   query BlogPostBySlug(
     $id: String!
-    $previousPostId: String
-    $nextPostId: String
   ) {
     site {
       siteMetadata {
@@ -91,22 +96,19 @@ export const pageQuery = graphql`
         title
         year
         description
+        chapter
       }
     }
-    previous: markdownRemark(id: { eq: $previousPostId }) {
-      fields {
-        slug
-      }
-      frontmatter {
-        title
-      }
-    }
-    next: markdownRemark(id: { eq: $nextPostId }) {
-      fields {
-        slug
-      }
-      frontmatter {
-        title
+    allMarkdownRemark(sort: { frontmatter: { chapter: ASC } }) {
+      nodes {
+        id
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+          chapter
+        }
       }
     }
   }

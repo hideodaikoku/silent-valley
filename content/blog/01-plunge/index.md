@@ -98,11 +98,19 @@ And like that, **Chi** found her way from one ledge to another. One step at a ti
 
 ![spiral](./spiral.png)
 
-So like that, one step at a time, **Chi** climbed.
+One step at a time, **Chi** slowly climbed the spiral. Each step seemed to get easier and easier. After the first ten, she made it to a landing. 
 
-The climb seemed to have taken her several hours, or was it a few days? Who could tell. But if she didn't stop, she would fall. She knew that for certain.
+> okay, so the landing doesn't move. phew. at least I can rest for a while
 
-> Gasping for air, nearly out of breath, Chi asked the voice, "What time is it?"
+She turned back and glanced to see that she had lit up a path before her. It was faint, but she could now see the forms of the spiral more clearly.
+
+The climb seemed to have taken her several hours, or was it a few days? She couldn't tell. She knew that she had to get out of here. The whispers in her head commanded her to do so.
+
+++
+
+Ten flights. She could see a tiny opening at the top above.
+
+> Gasping for air, nearly out of breath, Chi asked the voice, "how much longer?"
 
 ```
 "..."
@@ -117,7 +125,24 @@ The climb seemed to have taken her several hours, or was it a few days? Who coul
 > Okay... but where do I need to go?
 
 ```
-> "down"
+> "..."
+```
+
+++
+
+Ten flights.
+
+> How much longer?
+
+```
+> now()
+``` 
+
+> Huh?
+
+
+```
+> jump()
 ```
 
 > What? You mean jump back down? But I just came here all this way!
@@ -126,13 +151,24 @@ The climb seemed to have taken her several hours, or was it a few days? Who coul
 > plunge();
 ```
 
-And with that, the whole universe was sucked into **Chi**'s mind. Everything started to come back. **the_hunt**, **the_lilac_altar**, **moonlight_lake**, the **great_battle**, and then **the_flood**.
+All of a sudden, it seemed like the universe was sucked into **Chi**'s mind. Everything started to come back to her. Her memories, **the_hunt**, **the_lilac_altar**, **moonlight_lake**, the **great_battle**, and then **the_flood**. **Chi**'s pupils constricted, she felt a tigthening in her gut. Pain. Intense pain. She couldn't help herself. She had to jump.
 
 > +shift+
 >> +unshift+
->>> +transform+
+>>> +jump+
 
-**Chi** began to fall. But she fell upwards, to the ceiling in an odd contortion.
+**Chi** lifted herself off the parapet, and one leg at a time fell upwards towads the ceiling in an odd contortion. Gravity had flipped and it was drawing her with an incredible spinning velocity towards her core.
+
+The light grew bigger.
+
+and bigger.
+
+and bigger.
+
+it was a door.
+
+> a door!
+
 
 <hr/>
 
@@ -154,7 +190,7 @@ The device had 9 buttons and a small digital screen on top with a round receptac
 
 +CLACK+
 
-Three doors appeared. Each door had an inscription on it. She had no idea what it meant.
+Three doors appeared. Each had a faint inscription on it.
 
 <div style="text-align: center;">
 
@@ -168,20 +204,36 @@ Three doors appeared. Each door had an inscription on it. She had no idea what i
 > choose();
 ```
 
-It was hard to tell which one to pick. **Chi** looked back again. And all she saw was darkness.
+> choose what?
 
-The dark void seemed to be getting closer. She squinted. The whispers in her head seemed to get louder. Fear. Panic. Paranoia. It all seemed to spiral in.
+```
+> fate
+```
 
-Her heart began to beat louder. Louder. LOUDER. LOUDER. EVERYTHING WAS SO LOUD.
+> fate?
 
-The darkness reached its hands out and grasped her by her leg.
+**Chi** looked back again. All she saw behind was darkness.
+
+The darkness seemed to be moving. Was it getting closer? She squinted. Indeed it was!
+
+The whispers in her head seemed to get louder. Fear. Panic. Paranoia. It all seemed to spiral in.
+
+Her heart began to beat louder. Louder. louDER. LOUDER. EVERYTHING WAS SO LOUD!
+
+The darkness reached its lanky hands and grasped her by her leg.
 
 **Chi** fell, wriggling free.
 
 > "Off!" Off with it!
 
-Now she knew what she had to do. She jumped and charged head first to the door on the right.
+Now she knew she had no choice. She had to choose a door. 
 
-And then there was light.
+She picked herself up with every ounce of remaining energy and charged head first to the door on the right.
+
+And as fate would have it, then there was light.
 
 >**+flash+**
+
+<hr/>
+
+For the first time in a hundred years, a spirit emerged in silent valley.

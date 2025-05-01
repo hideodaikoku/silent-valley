@@ -26,13 +26,11 @@ year: y000 m0 d1
 
 ## the hunt
 
+![treetops](./treetops.png)
+
 In the waking hours of the hour of the fowl, the forest floor of **silent_valley** was quiet, in the third season of **the_hunt**. 
 
 The forest was shrouded in mist; one could barely see past the serpentine vines of the thicket. A deep tone, dark and beckoning, spoke to the darkness of **silent_valley**. There was no sun, and no light, save for the ocean of despair in the departure of life.
-
-
-![treetops](./treetops.png)
-
 
 Beyond the bramble of towering pine fortresses stood **the_spiral**. A tall, concrete ark-hollowed and solid. No doors. No windows. No cracks. Just a massive slab with corridors stretching out like bridges into the mist above **silent_valley**. No vines. No moss. No sign of life. It was out of place, alien in the thick jungle. Where did it come from? What was it for?
 

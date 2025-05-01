@@ -12,9 +12,11 @@ year: y000 m0 d2
 >folding inwards, inside out \
 >commit to a direction \
 >and walk \
-> ー　the shepherd y025, post eclipse
+> ー　the shepherd :: y025, post eclipse
 
 ## a walk in the woods
+
+![forest](./forest.jpg)
 
 **Chi** was outside. there wasn't much she could see in the forest. it was still very dark. and very quiet. it was so quiet that she could hear her own heartbeat. her footsteps seemed to make no sound either. 
 
@@ -49,8 +51,6 @@ and as **the_probe** grew, the pine grove began to bend. the trees gave way and 
 the **the_probe** stopped. it remained floating there, as if beckoning her to follow it. 
 
 > i guess i have no choice then, huh?
-
-![forest](./forest.png)
 
 **Chi** followed the orb. the forest floor felt damp and cool. the vines seemed to be alive now. moving away as she stepped in. she could hear a gentle singing now. it was like an angel's voice. what was it singing?
 

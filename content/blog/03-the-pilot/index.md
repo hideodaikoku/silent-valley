@@ -20,41 +20,44 @@ year: y001 m0 d3
 > hie die hoe 🎶
 > hie die dum 🎶
 >
-> ー the pilot y001 post eclipse
+> ー the pilot :: y001 post eclipse
 
 ## tinker tailor sailor
+![boat](./boat.png)
 
-the singing got louder as she approached what could only be described as a run-down fishing boat. it was rusty, had many holes with paint wearing off the edges.
+the singing got louder as she approached what could only be described as a run-down ship yard. 
+
+it was rusty, had many holes with paint wearing off the edges.
 
 the air smelt damp, of rum, and she could see several bottles strewn against the floor.
 
-> *who' be that?* 🐦
+> WHO BE TRESSPASSIN' ?*🐦
 
 **Chi** paused. unsure if she should run away or hide
 
-> *come out little birdie. i heard you* 🐦
+> COME OUT LITTLE BIRDIE. I HEARD YOU. 🐦
 
 **Chi** stood frozen in her tracks.
 
-> *i'm going to count to 3.* 🐦
+> I'M GOING TO COUNT TO THREE HAHAHAHAHA. 🐦
 
 **Chi** looked around frantically for something to defend herself with.
 
-> *1....* 🐦
+> 1.... 🐦
 
 a pile of twigs in the shape of a bow
 
-> *2....* 🐦
+> 2.... 🐦
 
 a rock
 
- > *3 ...* 🐦
+ > 3 ... 🐦
 
 **the_probe**!
 
-> *here i come little birdie GWA HA HAH AHA* 🐦
+> here i come little birdie GWA HA HAH AHA 🐦
 
-bullets began to fly in violent succession. she could feel the ground shake as the ma**Chi**ne gun emptied its magazine.
+Bullets began to fly in violent succession. She could feel the ground shake as the machine gun emptied its magazine.
 
 DA-DA-DA-DA-DA-DA-DA-DA\
 +click+ +click+ +click+\
@@ -71,7 +74,7 @@ DA-DA-DA-DA-DA-DA-DA-DA\
 
 **the_probe** expanded into the size of a room
 
-> *WHA? WHAT? IT CAN'T BE...* 🐦
+> WHA? WHAT? IT CAN'T BE... 🐦
 
 the shooting stopped. out from the helm of the ship a large hefty bird in navy blue overalls jumped off.
 
@@ -80,18 +83,19 @@ the shooting stopped. out from the helm of the ship a large hefty bird in navy b
 
 He had a missing leg, an eye-patch, a crutch and a machine gun on his shoulder.
 
-> *RUFFLE ME FEATHERS IT CAN'T BE,* \
-> *WHAT'S IT BEEN? A HUNDRED YEARS?* 🐦
+> RUFFLE ME FEATHERS IT CAN'T BE \
+> WHAT'S IT BEEN? A HUNDRED YEARS? 🐦
 
-*chi* peered out of the rock she was hiding behind. **the_probe** came back to her behind her.
+*Chi* peered out of the rock she was hiding behind. **the_probe** came back to her behind her.
 
 > "Do.. Do I know you?" she stammered
 
-> *HO HO HO, KNOW ME? YOU MUST BE JOKING!* \
-> *TIS I! SAILOR OF THE FLOOD_LANDS! THE PILOT OF SAND!* \
-> *NO_RAIN!* 🐦
+> HO HO HO, KNOW ME? YOU MUST BE JOKING! \
+> TIS I! SAILOR OF THE FLOOD_LANDS! \
+> THE PILOT OF SAND! \
+> ***NO_RAIN**! 🐦
 
-> "No_rain" ? "Have we met before?"
+> "**No_rain**" ? "Have we met before?"
 
 > "YOU REALLY DON'T REMEMBER DO YOU?" 🐦
 > Hic. 🐦
@@ -101,18 +105,15 @@ He had a missing leg, an eye-patch, a crutch and a machine gun on his shoulder.
 
 The boat was incredibly large and seemed to float above the air. It had a hundred different buttons, glowing dimly in a repeating pattern. 
 
-She watched as No_rain climbed into the captain's seat, setting his crutch against what seemed like the skeleton of a member of his crew.
+She watched as **No_rain** climbed into the helm, setting his crutch against what seemed like the skeleton of a member of his crew.
 
 > "DON'T MIND ERNIE, HE'S HARMLESS. HO HO HO HO" 🐦
 
 **Chi** looked around for a place to sit.
 
-> "STRAP IN SPIRIT. YOU'RE IN FOR A RIDE" 🐦
+> "STRAP IN SPIRIT YOU'RE IN FOR A RIDE" 🐦
 
 The boat rocked and shook violently. The engines revved up, making a deafening noise.
-
-WŴWŴWŴWŴWŴWŴWŴWŴWŴWŴWŴ
-ÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖ
 
 > TAKE OFF! AHAHAHAHAHAHAH 🐦
 

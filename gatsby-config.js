@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `[+silent valley+]`,
+    title: `amphibian studios`,
     author: {
       name: `hideodaikoku`,
       summary: `technical artist at amphibian studios inc.`,

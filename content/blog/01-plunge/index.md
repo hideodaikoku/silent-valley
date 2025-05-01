@@ -24,6 +24,9 @@ year: y000 m0 d1
 
 ## the climb
 
+![spiral](./spiral.png)
+
+
 In the desolate **void** of **the_spiral**, at its lowest rung, lay an **inverted helix**. The chasm was so deep that even the sound of dust hitting the ground echoed endlessly. But that day, from the ground, a faint glowing light emerged. It grew steadily brighter until it filled the space.  
 
 The light coalesced into the figure of a small child, curled in a fetal position. **the_child**, completely naked, had long, straight white hair. She raised her head, bewildered.  
@@ -99,8 +102,6 @@ She slammed head first onto the third ledge. It hurt. But she did it. She made i
 One step at a time, **Chi** found her way from one ledge to another. 
 
 One step at a time to the top of the first set of stairs of **the_spiral**.
-
-![spiral](./spiral.png)
 
 Each step seemed to get easier and easier. After the first ten ledges, she made it to a landing. 
 

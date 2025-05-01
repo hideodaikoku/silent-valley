@@ -15,7 +15,7 @@ module.exports = {
       summary: `technical artist at amphibian studios inc.`,
     },
     description: `the story of silent valley, updated periodically`,
-    siteUrl: `https://silentvalley.wavecut.dev/`,
+    siteUrl: `https://book.amphibian-studios.com/`,
     social: {
       instagram: `hideodaikoku`,
     },
@@ -118,7 +118,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/wavecut.png`, // This path is relative to the root of the site.
+        icon: `src/images/a-wb.jpg`, // This path is relative to the root of the site.
       },
     },
   ],

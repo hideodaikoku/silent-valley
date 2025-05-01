@@ -29,7 +29,7 @@ the singing got louder as she approached what could only be described as a run-d
 
 it was rusty, had many holes with paint wearing off the edges.
 
-the air smelt damp, of rum, and she could see several bottles strewn against the floor.
+the air smelt damp and musty, of rum, and she could see several bottles strewn against the floor.
 
 > WHO BE TRESSPASSIN' ?*🐦
 
@@ -45,11 +45,11 @@ the air smelt damp, of rum, and she could see several bottles strewn against the
 
 > 1.... 🐦
 
-a pile of twigs in the shape of a bow
+a pile of twigs and an oak eave shaped like a bow
 
 > 2.... 🐦
 
-a rock
+a pile of sharp rocks! 
 
  > 3 ... 🐦
 
@@ -93,7 +93,7 @@ He had a missing leg, an eye-patch, a crutch and a machine gun on his shoulder.
 > HO HO HO, KNOW ME? YOU MUST BE JOKING! \
 > TIS I! SAILOR OF THE FLOOD_LANDS! \
 > THE PILOT OF SAND! \
-> ***NO_RAIN**! 🐦
+> **NO_RAIN**! 🐦
 
 > "**No_rain**" ? "Have we met before?"
 
@@ -111,7 +111,7 @@ She watched as **No_rain** climbed into the helm, setting his crutch against wha
 
 **Chi** looked around for a place to sit.
 
-> "STRAP IN SPIRIT YOU'RE IN FOR A RIDE" 🐦
+> "STRAP IN SPIRIT, YOU'RE IN FOR A RIDE" 🐦
 
 The boat rocked and shook violently. The engines revved up, making a deafening noise.
 
@@ -119,6 +119,6 @@ The boat rocked and shook violently. The engines revved up, making a deafening n
 
 the boat soared through the water into the darkness ahead.
 
-> safe for now...
+> safe for now..., she sighed
 
-But for some reason, **chi** felt the worst wa yet to come.
+But for some reason, **chi** felt the worst was yet to come.

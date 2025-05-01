@@ -174,8 +174,6 @@ it was a door.
 
 <br/>
 
-![grid](./grid.png)
-
 **Chi** appeared in a red room. A red room with red curtains and a black and white checkerboard floor and a single hanging light from above. In the center of the room was an old-fashioned device.
 
 The device had 9 buttons and a small digital screen on top with a round receptacle receiver.
@@ -236,6 +234,6 @@ And as fate would have it, then there was light.
 
 >**+flash+**
 
-<div style="background: #ddeeff; border-radius: 2px; height: 5rem; box-shadow: 0px 0px 15px white; margin-bottom: 2rem"> </div>
+<div style="background:rgb(255, 248, 215); border-radius: 2px; height: 5rem; box-shadow: 0px 0px 15px white; margin-bottom: 2rem"> </div>
 
 For the first time in a hundred years, a spirit emerged in silent valley.

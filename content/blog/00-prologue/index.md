@@ -18,9 +18,10 @@ year: y000 m0 d1
 > hiding subtle grins \
 > at the fatalism of it all \
 > that reality might be \
-> but three steps away from the closest \
-> booth, dial the number \
-> exitsimulation \
+> but three steps away from 
+> the closest booth, 
+> dial the number \
+> exit simulation \
 > — the shepherd :: year 001, post eclipse
 
 
@@ -33,10 +34,11 @@ The forest was shrouded in mist; one could barely see past the serpentine vines 
 ![treetops](./treetops.png)
 
 
+Beyond the bramble of towering pine fortresses stood **the_spiral**. A tall, concrete ark-hollowed and solid. No doors. No windows. No cracks. Just a massive slab with corridors stretching out like bridges into the mist above **silent_valley**. No vines. No moss. No sign of life. It was out of place, alien in the thick jungle. Where did it come from? What was it for?
 
-Beyond the bramble of the towering fortresses of the pine grove was **the_spiral** :: a tall concrete receptacle in the shape of a hollowed out ark. **the_spiral** had no doors and no openings, no cracks, and no windows. A large concrete slab with several corridors leading out like long bridges into the mist of higher levels of **silent_valley**. **the_spiral** was free of vines, creepers or moss. It seemed completely out of place amidst the thickness of the jungle. Where did it come from? What purpose did it serve?
+The animals worshiped **the_spiral** as an ancient force of nature. Legend said all that approached would wither to ash and aether. Once every two hundred and seventy-six days, a slit of light would emerge, giving way to three beacons of light, shooting into the sky. They called this event **the_flash**. It would only last for one week, but it was enough for the animals of **silent_valley** to bask in it's light and rejoice. Sound and color would fill the void of **silent_valley**'s mist. 
 
-The animals worshiped **the_spiral** as an ancient force of nature. Legend said all that approached would wither to ash and aether. Once every two hundred and seventy-six days, a slit of light would emerge, giving way to three beacons of light, shooting into the sky. They called this event **the_flash**. It would only last for one week, but it was enough for the animals of **silent_valley** to bask in it's light and rejoice. Sound and colour would fill the void of **silent_valley**'s mist. Flowers would bloom momentarily and the trees would sing to each other.
+Flowers would bloom momentarily and the trees would sing to each other.
 
 
 And then the slit would close. 

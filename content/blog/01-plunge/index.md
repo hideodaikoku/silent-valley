@@ -8,8 +8,8 @@ year: y000 m0 d1
 
 > **the_spiral** is not a loop,  
 > echoing a legend of  
-> the spirit, the sword,  
-> and the mountain.  
+> the **spirit**, the sword,  
+> and **the_mountain**.  
 > we wander to begin  
 > at the finish line.  
 > footprints appear  
@@ -20,7 +20,9 @@ year: y000 m0 d1
 > cracks in the landing  
 > reveal a rose that grew  
 > from the concrete.  
-> — the shepherd :: y150  
+> — the shepherd :: y150, post eclipse  
+
+## the climb
 
 In the desolate **void** of **the_spiral**, at its lowest rung, lay an **inverted helix**. The chasm was so deep that even the sound of dust hitting the ground echoed endlessly. But that day, from the ground, a faint glowing light emerged. It grew steadily brighter until it filled the space.  
 
@@ -94,13 +96,15 @@ She slammed head first onto the third ledge. It hurt. But she did it. She made i
 
 > Hop. Skip. Turn and jump. That's it. I got it.
 
-And like that, **Chi** found her way from one ledge to another. One step at a time to the top of the first set of stairs of **the_spiral**.
+One step at a time, **Chi** found her way from one ledge to another. 
+
+One step at a time to the top of the first set of stairs of **the_spiral**.
 
 ![spiral](./spiral.png)
 
-One step at a time, **Chi** slowly climbed the spiral. Each step seemed to get easier and easier. After the first ten, she made it to a landing. 
+Each step seemed to get easier and easier. After the first ten ledges, she made it to a landing. 
 
-> okay, so the landing doesn't move. phew. at least I can rest for a while
+> "okay, so this landing doesn't move", she thought.. "phew. at least I can rest for a while"
 
 She turned back and glanced to see that she had lit up a path before her. It was faint, but she could now see the forms of the spiral more clearly.
 
@@ -110,16 +114,16 @@ The climb seemed to have taken her several hours, or was it a few days? She coul
 
 Ten flights. She could see a tiny opening at the top above.
 
-> Gasping for air, nearly out of breath, Chi asked the voice, "how much longer?"
+> Gasping for air, nearly out of breath, Chi exclaimed, "how much longer?!"
 
 ```
-"..."
+"patience()"
 ```
 
 > "Where am I?"
 
 ```
-> "the_abyss"
+> "the_spiral"
 ```
 
 > Okay... but where do I need to go?
@@ -128,7 +132,6 @@ Ten flights. She could see a tiny opening at the top above.
 > "..."
 ```
 
-++
 
 Ten flights.
 
@@ -151,13 +154,17 @@ Ten flights.
 > plunge();
 ```
 
-All of a sudden, it seemed like the universe was sucked into **Chi**'s mind. Everything started to come back to her. Her memories, **the_hunt**, **the_lilac_altar**, **moonlight_lake**, the **great_battle**, and then **the_flood**. **Chi**'s pupils constricted, she felt a tigthening in her gut. Pain. Intense pain. She couldn't help herself. She had to jump.
+All of a sudden, it seemed like the universe was sucked into **Chi**'s mind. Everything started to come back to her. 
+
+Her memories, **the_hunt**, **the_lilac_altar**, **moonlight_lake**, the **great_battle**, and then **the_flood**, the flood! 
+
+**Chi**'s pupils dilated, she felt a tightening in her gut. Pain. Intense pain. She couldn't help herself. She had to jump.
 
 > +shift+
 >> +unshift+
 >>> +jump+
 
-**Chi** lifted herself off the parapet, and one leg at a time fell upwards towads the ceiling in an odd contortion. Gravity had flipped and it was drawing her with an incredible spinning velocity towards her core.
+**Chi** lifted herself off the parapet, and one leg at a time fell upwards towards the ceiling in an odd contortion. Gravity had flipped and it was drawing her with an incredible spinning velocity towards her core.
 
 The light grew bigger.
 
@@ -174,23 +181,27 @@ it was a door.
 
 <br/>
 
-**Chi** appeared in a red room. A red room with red curtains and a black and white checkerboard floor and a single hanging light from above. In the center of the room was an old-fashioned device.
+**Chi** appeared in a white room. the room was bright as though completely lit from all six faces. The door behind her closed into a slit, and then disappeared into the wall, but she could still see faint outlines of the staircases below.
 
-The device had 9 buttons and a small digital screen on top with a round receptacle receiver.
+> "a path" she thought
+
+In the center of the room was an old-fashioned device.
+
+The device had twelve buttons and a small digital screen on top with a round receptacle receiver.
 
 ```
 > dial('16-42-24');
 ```
 
-**Chi** did as she was told. She pressed the numbers on the keypad. 
+**Chi** did as she was told. She approached the device, and pressed the numbers on the keypad. 
 
-+click+, +click+
-+click+, +click+
-+click+, +click+ 
++click+ +click+ \
++click+ +click+ \
++click+ +click+ 
 
 +CLACK+
 
-Three doors appeared. Each had a faint inscription on it.
+Three black doors appeared. Each had a faint inscription on it.
 
 <div style="text-align: center;">
 
@@ -236,4 +247,4 @@ And as fate would have it, then there was light.
 
 <div style="background:rgb(255, 248, 215); border-radius: 2px; height: 5rem; box-shadow: 0px 0px 15px white; margin-bottom: 2rem"> </div>
 
-For the first time in a hundred years, a spirit emerged in silent valley.
+For the first time in a hundred years, a **spirit** emerged in silent valley.

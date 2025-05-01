@@ -12,9 +12,11 @@ year: y000 m0 d2
 >folding inwards, inside out \
 >commit to a direction \
 >and walk \
-> ー　the shepherd y025
+> ー　the shepherd y025, post eclipse
 
-**chi** was outside. there wasn't much she could see in the forest. it was still very dark. and very quiet. it was so quiet that she could hear her own heartbeat. her footsteps seemed to make no sound either. 
+## a walk in the woods
+
+**Chi** was outside. there wasn't much she could see in the forest. it was still very dark. and very quiet. it was so quiet that she could hear her own heartbeat. her footsteps seemed to make no sound either. 
 
 the opening behind her closed. no knob, no slit, not a sign one could use to enter again.
 
@@ -30,7 +32,7 @@ the opening behind her closed. no knob, no slit, not a sign one could use to ent
 > ...
 ```
 
-**chi** looked around frantically in the mist. she could see shrubs, the outlines of trees and mountains in the distance. there really wasn't much more she could see ahead of the mist but it felt like she was being watched.
+**Chi** looked around frantically in the mist. she could see shrubs, the outlines of trees and mountains in the distance. there really wasn't much more she could see ahead of the mist but it felt like she was being watched.
 
 she began walking forward. looking desperately for sings of life - anything. her heart was still beating from the chase and paranoia of the climb. strangely enough though, she didn't feel tired.
 
@@ -50,7 +52,7 @@ the **the_probe** stopped. it remained floating there, as if beckoning her to fo
 
 ![forest](./forest.png)
 
-**chi** followed the orb. the forest floor felt damp and cool. the vines seemed to be alive now. moving away as she stepped in. she could hear a gentle singing now. it was like an angel's voice. what was it singing?
+**Chi** followed the orb. the forest floor felt damp and cool. the vines seemed to be alive now. moving away as she stepped in. she could hear a gentle singing now. it was like an angel's voice. what was it singing?
 
 ++
 
@@ -71,65 +73,62 @@ the **the_probe** stopped. it remained floating there, as if beckoning her to fo
 > transpile()
 ```
 
->|| sing a song of earth and wind ||\
->|| water, fire bright ||\
->|| bring back the forest ||\
+>|| we sing a song of earth and wind
+>|| fire water and heavens bright ||\
+>|| bring back the forest
 >|| what the shepherd promised ||\
->|| the golden eggs of light ||
+>|| the golden eggs of light || follow the shepherd's guiding light ||
 
-++++++
+++
 
-> i can hear it now! the golden eggs? the shepherd?.... and what if i don't?
+> "i can hear it now!" \
+> "but what was that about golden eggs? a shepherd? \
+> i don't know what that means"
 
 the singing stopped.
 
 +CRACK+
 
 
-lightning and thunder. it began to rain. it began to rain heavily. **chi** looked at the ground. the water began to rise. the trees began to close in, forest walls began to narrow
-
+lightning and thunder. it began to rain. it began to rain heavily. **Chi** looked at the ground. the water began to rise. the trees began to close in, forest walls began to narrow
 
 ||flood||
 
-
 +crack+
 
-in a flash. everything went back to normal.
-
-> she shuddered. "why me?"
+> she shuddered. "what did i do to deserve this? I have so many questions"
 
 silence.
 
-> i guess i'll have to find a way around.
+> "i guess i'll have to find a way out of here myself."
 
-**chi** snapped her fingers. **the_probe** came back towards her. it hurled itself forward again.
+**Chi** snapped her fingers. **the_probe** came back towards her. it hurled itself forward again.
 
-> i'm getting the hang of this.
+> "well at least i'm getting the hang of this."
 
-the forest began to clear again. but it was getting late, and she began to tire. she had to find a rest spot.
+in the distance she saw what looked like a run-down pathway.
 
-> okay, it's time to find shelter...
-
-in the distance she saw what looked like a white run-down door of an empty cabin.
-
-> must be the right direction
+> "must be the right direction"
 
 ```
 > walk()
 ```
-...
+
+chi scurried towards the path ahead. she could hear a distant humming, almost like an old man singing.
 
 <hr/>
+
+## meanwhile
 
 in the distance, **the_figure** re-appeared. though a slit in space.
 
 he peered down at the path from the treetops. 
 
-> "good. she figured out how to use the probe."
+> "good. she figured out how to use the probe." 🦌
 
 and slipped out of sight as he watched she walk towards **river**. 
 
-> "five clicks until the hunters find her. if only i could warn her."
+> "five clicks until the hunters find her. if only i could warn her." 🦌
 
 he sighed
 
@@ -137,11 +136,11 @@ he sighed
 
 rainfall. and a warning.
 
-> "that should do it"
+> "that should do it" 🦌
 
-he looked again at his wrist, and saw the circuits beginning to fade. 
+he looked again at his wrist. the circuits were starting to fade. 
 
-> not much time left for me either.
+> "not much time left for me either" 🦌
 
 six beats.
 

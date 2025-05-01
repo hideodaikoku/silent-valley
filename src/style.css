@@ -56,7 +56,7 @@
   --color-text-light: #ffffff;
   --color-heading: #888888;
   --color-heading-black: rgb(255, 255, 255);
-  --color-accent: #ffaa00;
+  --color-accent: #ffbf00;
 }
 
 /* HTML elements */
@@ -327,7 +327,7 @@ a:focus {
 
 .gatsby-highlight {
   background-color: #1e1e1e; /* Dark background for code blocks */
-  color: #517f51; /* Default text color */
+  color: --var(--color-accent); /* Default text color */
   padding: var(--spacing-6); /* Add padding around the code block */
   border-radius: 8px; /* Rounded corners */
   overflow-x: auto; /* Enable horizontal scrolling for long lines */
@@ -342,7 +342,7 @@ a:focus {
 }
 
 .language-text code{
-  color: #517f51 !important;
+  color: #ffbf00 !important;
   text-shadow: none !important;
 }
 

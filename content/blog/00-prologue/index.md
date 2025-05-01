@@ -8,11 +8,11 @@ year: y000 m0 d1
 > reality is held in balance by \
 > just a few strings, connecting stars in the sky \
 > mankind's quest for meaning \
-> reveal three thousand realms \
+> reveal **three_thousand_realms** \
 > in a single moment \
 > or maybe, infinity in a grain of sand \
 > but we all prefer to keep our \
-> third eye blind \
+> **third_eye** blind \
 > wear faces in passing \
 > "hello, how do you do?" \
 > hiding subtle grins \
@@ -21,10 +21,10 @@ year: y000 m0 d1
 > but three steps away from 
 > the closest booth, 
 > dial the number \
-> exit simulation \
+> **exitsimulation** \
 > — the shepherd :: year 001, post eclipse
 
-
+## the hunt
 
 In the waking hours of the hour of the fowl, the forest floor of **silent_valley** was quiet, in the third season of **the_hunt**. 
 
@@ -62,11 +62,11 @@ All the animals of **silent_valley** bent the knee to **the_tiger**'s shadow, an
 
 **the_tiger** looked at the faint shadow of the moon.
 
-> **+full moon+** :: he thought :: **four_blinks**
+> **+full moon+** :: he thought :: **four_blinks** 🐅 
 
 He sniffed the air for the scent of ashen blood dust. 
 
-> **musty** :: he reminisced ::  **two_blinks**
+> **musty** :: he reminisced ::  **two_blinks** 🐅
 
 Faint, lingering, but it was certainly there. 
 
@@ -74,7 +74,7 @@ The weight of his ancestors knew what that meant.
 
 ++
 
-> time for **the_hunt** to begin.
+> "time for **the_hunt** to begin" 🐅 
 
 ++
 
@@ -113,7 +113,7 @@ And so began the song of the hunt.
 
 &nbsp;
 
-
+## diffusion
 
 A hooded figure stood above the puddle of blood where **the_boar** once fell. 
 
@@ -121,7 +121,7 @@ he had pale skin with silver white tattoos running like circuitry around his ent
 
 He looked around for signs of life. Nothing. The tiger left not a shred of sinew on the bones of the poor beast. 
 
->  ***+scent+*** he thought
+>  ***+scent+*** he thought 🦌
 
 **the_figure** stooped down and took a sample of what remained, and muttered a hymn of requisition.
 
@@ -133,16 +133,16 @@ with three dots on the forest floor, **the_figure** drew a diffusion map.
 
 the sand of the forest floor began to shift into a pattern of twisting roots. water seeped into the center of the hole at the base of **the_figure**'s feet. it rose to his knees, and as he looked up, two antlers grew from the base of his head, as he twisted into a seven foot tall shadow of a humanoid elk hybrid.
 
-> ***+transformation+***
+> ***+transformation+*** 🦌
 
 His eyes constricted into narrow slits, as his spirit became one with the silence of the forest.
 
-> ***+touch+***
+> ***+touch+*** 🦌
 
 With a hush, he disappeared into a slit in the fabric of the forest. Not a sound or soul saw or heard where he had been.
 
 All that was left was the faint silver pool of the diffusion map.
 
-> ***+vision+***
+> ***+vision+*** 🦌
 
 Somewhere in the depths of **the_spiral**, at that very same moment, a faint light emerged in the abyss.

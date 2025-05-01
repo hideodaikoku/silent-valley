@@ -1,7 +1,7 @@
 ---
 title: 03 the pilot  
 chapter: 4  
-description: a strange kind of science
+description: a strange encounter
 year: y001 m0 d3  
 ---
 
@@ -97,7 +97,7 @@ He had a missing leg, an eye-patch, a crutch and a machine gun on his shoulder.
 > Hic. 🐦
 > WELL. NO TIME TO WASTE. THE FIRST FLOOD IS ABOUT TO START. 🐦
 
-Chi hesitated. But she looked down at her feet. Indeed, the water was beginning to rise. It was now down to her knees. She mustered her courage and climbed towards the boat. The boat rocked and creaked as she set foot on it.
+**Chi** hesitated. But she looked down at her feet. Indeed, the water was beginning to rise. It was now down to her knees. She mustered her courage and climbed towards the boat. The boat rocked and creaked as she set foot on it.
 
 The boat was incredibly large and seemed to float above the air. It had a hundred different buttons, glowing dimly in a repeating pattern. 
 

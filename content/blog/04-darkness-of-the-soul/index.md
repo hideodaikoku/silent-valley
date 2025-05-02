@@ -26,31 +26,31 @@ something shifted in the silence of the inner side of the inverted helix in **th
 
 ```
 #define reboot_protocol
-> intialize("REI)
+> intialize("Rei)
 ```
 
-He opened his eyes. He could see the faint path left behind on **the_spiral** by **CHI**. He knew what he had to do, unlike her his memory persisted through each cycle - a blessing and a curse for his dark soul.
+He opened his eyes. He could see the faint path left behind on **the_spiral** by **Chi**. He knew what he had to do, unlike her his memory persisted through each cycle - a blessing and a curse for his dark soul.
 
 +INVERSION+
 
-**REI** released his rope harnesses in one singular motion, and ascended up twenty flights up **the_spiral**.
+**Rei** released his rope harnesses in one singular motion, and ascended up twenty flights up **the_spiral**.
 
 > *advantages of being second* he thought. *don't have to carve my own path*
 
-For **REI** the darkness was his home. He found comfort in the shadows. He could slip in and out of the woods of silent valley without a single person knowing he was ever there.
+For **Rei** the darkness was his home. He found comfort in the shadows. He could slip in and out of the woods of silent valley without a single person knowing he was ever there.
 
 +PATH+
 
-**REI** summoned a shadow of black mass between the landings of the last flight of steps.
+**Rei** summoned a shadow of black mass between the landings of the last flight of steps.
 
 > *the passage should be around here*
 
-**REI** pushed his fingers into a crevice in the wall and opened the portal to **the_lobby**. 
+**Rei** pushed his fingers into a crevice in the wall and opened the portal to **the_lobby**. 
 
 he dialed the numbers, just like last time.
 
 ```
-> dial('63-96-66');
+> dial('63-96-16');
 ```
 
 the doors emerged.
@@ -65,9 +65,7 @@ the doors emerged.
 
 > *as if i have a choice*, he shook his head *always left.*
 
-**REI** walked to the door on the left without hesitation.
-
-> *amor fati*
+**Rei** walked to the door on the left without hesitation.
 
 -blip-
 
@@ -77,31 +75,31 @@ the doors emerged.
 
 -blip-
 
-**REI** emerged from the other side of the spiral, slowly dusting himself as he breathed a sigh of relief.
+**Rei** emerged from the other side of the spiral, slowly dusting himself as he breathed a sigh of relief.
 
 > *not too shabby. still got it.* he smirked.
 
-He looked at the path of lit up footsteps **CHI** had left behind.
+He looked at the path of lit up footsteps **Chi** had left behind.
 
 > *when will she ever learn to cover her tracks?*, he thought
 
 He glanced at the clouds. first flood was about to start any moment now. he'd best hurry to **the_great_plains** and continue his search for **the_shepherd**. 
 
-**REI** knew he couldn't rely on **CHI**. Not after last time. 
+**Rei** knew he couldn't rely on **Chi**. Not after last time. 
 
 -BLIP-
 
-**REI** jumped up onto the closest pine tree and released his harness.
+**Rei** jumped up onto the closest pine tree and released his harness.
 
 +INVERSION+
 
 -BLIP-
 
-Six fiber-optic strands emerged from his back that carried him to the tree tops. **REI** was agile, and could climb anywhere in any orientation with immense speed, all without being noticed.
+Six fiber-optic strands emerged from his back that carried him to the tree tops. **Rei** was agile, and could climb anywhere in any orientation with immense speed, all without being noticed.
 
 -BLIP-
 
-**REI** emerged on the top of the tallest tree in the pine grove.
+**Rei** emerged on the top of the tallest tree in the pine grove.
 
 > *things don't seem to have changed much since last time...*
 
@@ -109,6 +107,6 @@ He looked at the two moons in the sky. They were almost overlapping.
 
 > *Not good. Looks like an eclipse is about to begin.*
 
-It started to rain. He peered over to his right and saw **the_flash**. Time was ticking, and **CHI** would be fine without him... at least for now 
+It started to rain. He peered over to his right and saw **the_flash**. Time was ticking, and **Chi** would be fine without him... at least for now 
 
 -BLIP-

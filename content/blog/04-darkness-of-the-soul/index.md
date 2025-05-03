@@ -22,7 +22,7 @@ year: y001 m0 d0
 > of service? \
 > ー the_soul :: y099 pre-eclipse
 
-something shifted in the silence of the inner side of the inverted helix in **the_spiral**. Just as light casts its rays, so too, must shadows emerge. such is the law of balance. From the shadows, emerged a boy. a boy with straight black hear and beady black eyes, in a tall slender, yet muscular body, shrouded head to toe in black tattoos with intricate gold circuits running through his veins. 
+Something shifted in the silence of the inner side of the inverted helix in **the_spiral**. From the shadows, emerged a boy. a boy with straight black hear and beady black eyes, in a tall slender, yet muscular body, shrouded head to toe in black tattoos with intricate gold circuits running through his veins. 
 
 ```
 #define reboot_protocol
@@ -107,6 +107,8 @@ He looked at the two moons in the sky. They were almost overlapping.
 
 > *Not good. Looks like an eclipse is about to begin.*
 
-It started to rain. He peered over to his right and saw **the_flash**. Time was ticking, and **Chi** would be fine without him... at least for now 
+It started to rain. He peered over to his right and saw **the_flash**. Time running out.
+
+**Chi** would be fine without him... at least for now 
 
 -BLIP-

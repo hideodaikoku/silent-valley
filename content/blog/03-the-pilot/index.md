@@ -25,11 +25,11 @@ year: y001 m0 d3
 ## tinker tailor sailor
 ![boat](./boat.png)
 
-the singing got louder as she approached what could only be described as a run-down ship yard. 
+The singing got louder as she approached what could only be described as a run-down ship yard. 
 
-it was rusty, had many holes with paint wearing off the edges.
+It was rusty, had many holes with paint wearing off the edges.
 
-the air smelt damp and musty, of rum, and she could see several bottles strewn against the floor.
+The air smelt damp and musty, of rum, and she could see several bottles strewn against the floor.
 
 > WHO BE TRESSPASSIN' ?*🐦
 
@@ -45,11 +45,11 @@ the air smelt damp and musty, of rum, and she could see several bottles strewn a
 
 > 1.... 🐦
 
-a pile of twigs and an oak eave shaped like a bow
+A pile of twigs and an oak eave shaped like a bow
 
 > 2.... 🐦
 
-a pile of sharp rocks! 
+A pile of sharp rocks! 
 
  > 3 ... 🐦
 
@@ -76,7 +76,7 @@ DA-DA-DA-DA-DA-DA-DA-DA\
 
 > WHA? WHAT? IT CAN'T BE... 🐦
 
-the shooting stopped. out from the helm of the ship a large hefty bird in navy blue overalls jumped off.
+The shooting stopped. out from the helm of the ship a large hefty bird in navy blue overalls jumped off.
 
 +THUD+ 
 +STOMP+
@@ -117,7 +117,7 @@ The boat rocked and shook violently. The engines revved up, making a deafening n
 
 > TAKE OFF! AHAHAHAHAHAHAH 🐦
 
-the boat soared through the water into the darkness ahead.
+The boat soared through the water into the darkness ahead.
 
 > safe for now..., she sighed
 

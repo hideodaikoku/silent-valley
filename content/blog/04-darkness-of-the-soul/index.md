@@ -26,7 +26,7 @@ Something shifted in the silence of the inner side of the inverted helix in **th
 
 ```
 #define reboot_protocol
-> intialize("Rei)
+> initialize("Rei")
 ```
 
 He opened his eyes. He could see the faint path left behind on **the_spiral** by **Chi**. He knew what he had to do, unlike her his memory persisted through each cycle - a blessing and a curse for his dark soul.
@@ -35,7 +35,7 @@ He opened his eyes. He could see the faint path left behind on **the_spiral** by
 
 **Rei** released his rope harnesses in one singular motion, and ascended up twenty flights up **the_spiral**.
 
-> *advantages of being second* he thought. *don't have to carve my own path*
+> *advantages of being second* he thought. *don't have to carve my own path* 🐦‍⬛
 
 For **Rei** the darkness was his home. He found comfort in the shadows. He could slip in and out of the woods of silent valley without a single person knowing he was ever there.
 
@@ -43,7 +43,7 @@ For **Rei** the darkness was his home. He found comfort in the shadows. He could
 
 **Rei** summoned a shadow of black mass between the landings of the last flight of steps.
 
-> *the passage should be around here*
+> *the passage should be around here* 🐦‍⬛
 
 **Rei** pushed his fingers into a crevice in the wall and opened the portal to **the_lobby**. 
 
@@ -63,7 +63,7 @@ the doors emerged.
 
 </div>
 
-> *as if i have a choice*, he shook his head *always left.*
+> *as if i have a choice*, he shook his head *always left.* 🐦‍⬛
 
 **Rei** walked to the door on the left without hesitation.
 
@@ -77,11 +77,11 @@ the doors emerged.
 
 **Rei** emerged from the other side of the spiral, slowly dusting himself as he breathed a sigh of relief.
 
-> *not too shabby. still got it.* he smirked.
+> *not too shabby. still got it.* he smirked. 🐦‍⬛
 
 He looked at the path of lit up footsteps **Chi** had left behind.
 
-> *when will she ever learn to cover her tracks?*, he thought
+> *when will she ever learn to cover her tracks?*, he thought 🐦‍⬛
 
 He glanced at the clouds. first flood was about to start any moment now. he'd best hurry to **the_great_plains** and continue his search for **the_shepherd**. 
 
@@ -101,11 +101,11 @@ Six fiber-optic strands emerged from his back that carried him to the tree tops.
 
 **Rei** emerged on the top of the tallest tree in the pine grove.
 
-> *things don't seem to have changed much since last time...*
+> *things don't seem to have changed much since last time...* 🐦‍⬛
 
 He looked at the two moons in the sky. They were almost overlapping.
 
-> *Not good. Looks like an eclipse is about to begin.*
+> *Not good. Looks like an eclipse is about to begin.* 🐦‍⬛
 
 It started to rain. He peered over to his right and saw **the_flash**. Time running out.
 

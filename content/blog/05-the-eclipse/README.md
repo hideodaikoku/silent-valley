@@ -7,17 +7,20 @@ year: y001 m0 d3
 
 ## the eclipse
 
-> /for those that seek \
+> for those that seek \
 > communion:: \
-> there is only one \ 
-> language + one alone \
+> there is only one \
+> language, one alone \
 > the rhythm is \
-> In harmony/ \
+> in harmony \
+> 
 > ー the_shepherd :: y100 post-eclipse
 
 ![forest](./kay.png)
 
-**Rei** looked up at the night sky as he made his way through the treetops. The rain was getting heavier, and he could see the water level rise before him. It wasn't the flood that he was afraid of, but what followed that was disturbing. The moons were converging, and the eclipse was nearly on its way. 
+**Rei** looked up at the night sky as he made his way through the treetops. He could see the stars shifting into a new formation. 
+
+The rain was getting heavier, and he could see the water level rise before him. It wasn't the flood that he was afraid of, but what followed that was disturbing. The moons were converging, and the eclipse was nearly on its way. 
 
 Down below he could see the animals begin to move up to safer ground. Many of them were used to **the_flood**. Some had developed specialized shelters to wait out the rain, others had adapted their bodies physically to stay submerged for the entire duration of the flood.
 
@@ -27,7 +30,7 @@ Down below he could see the animals begin to move up to safer ground. Many of th
 
 A spear of light grazed his shoulder. **Rei** flinched.
 
-> "Enemy territory ... not at a time like this"
+> "I'm in enemy territory now." 🐦‍⬛
 
 He looked around. A rain of arrows started hurling at him from below. One of **the_children** had spotted him.
 
@@ -37,12 +40,11 @@ He whipped out a harness knife and switched course.
 
 Another **light_spear** hurled near his head
 
--FWOOM-
+-FWO000OM-
 
 **Rei** whipped out his harpoon, but hesitated.
 
-> "Best not to engage. To engage is to instigate a war"
-
+> "Best not to engage. To engage is to instigate a war" 🐦‍⬛
 
 He dropped down to ground level and touched the floor.
 
@@ -50,43 +52,49 @@ He dropped down to ground level and touched the floor.
 
 Three drops appeared on the floor. He drew a reaction pattern and a line in the sand.
 
+```
+> self::clone('REI')
+```
+
 --
 
 A shadow clone appeared up in the sky. 
 
 -BLINK-
 
-> "hm.. that should keep them busy"
+> "hm.. that should keep them busy" 🐦‍⬛
 
-The spears hurled at the shadow clone. **Rei** moved ahead.
+The spears hurled at the shadow clone. **Rei** moved ahead through an opening between the cypress grove.
 
 +THWACK+
 
-A massive axe came crashing down and sliced the entire tree grove in half.
+A **shadow_axe** came crashing down and sliced the entire cypress grove in half.
 
-> "okay they aren't falling for that"
+> "how? how could it be?" 🐦‍⬛
 
-Arrows, axes, spears came from all directions.
+Arrows, axes, spears came hurling at him from all directions. **the_children** were not falling for parlor tricks anymore.
 
-> "something is different this time for sure"
+> "something has changed" 🐦‍⬛
 
 And then, it happened.
 
 +SCHICK+
 
-A massive spear impaled **Rei** in his place. 
+A **light_spear** impaled **Rei** in his place. Sliced straight through the heart, skewered into the flooding forest floor.
 
-Straight through the heart. With one last effort he tried to free himself, but it was too late.
+With one last breath, **Rei** tried to free himself, but it was already too late His circuits began to flicker and his body began to disintegrate.
 
-His circuits began to flicker and his body began to disintegrate.
-
-The sky began to darken. The water was rising. The moon had vanished.
+The clouds darkened, river water rose, the moons vanished into a blanket of the night.
 
 It was the eclipse. 
 
 **+BLINK+**
 
-the sky opened its third eye.
+The stars had rearranged themselves into an eyelid.
+
+**+BLINK+**
+
+The sky opened its third eye.
 
 **+BLINK+**
 
@@ -94,8 +102,6 @@ the sky opened its third eye.
 
 **+BLINK+**
 
-The sky turned a deep crimson.
+The flood gates were open.
 
 **+BLINK+**
-
-The flood gates were open.

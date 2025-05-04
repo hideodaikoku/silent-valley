@@ -1,6 +1,5 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -27,7 +26,8 @@ const BlogPostTemplate = ({
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.year}</p>
+          <p>{post.frontmatter.description}</p>
+          <small>{post.frontmatter.year}</small>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}

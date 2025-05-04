@@ -5,7 +5,9 @@ description: the eye of the storm
 year: y000 m0 d6 
 ---
 
-# approaching storm
+# typhoon
+
+![night on bald mountain](./nielsen.jpeg)
 
 Back on the boat, **Chi** was still shivering from shock. Her mind was full of questions.
 
@@ -13,9 +15,9 @@ Back on the boat, **Chi** was still shivering from shock. Her mind was full of q
 
 One by one, **the_pilot** replied with guttural laughter between sips of pale ale and bad singing.
 
-> HO HO HO! FOR THE LAST TIME, I CAN'T TELL YOU, **spirit**! YOU HAVE TO FIGURE IT OUT EACH TIME 🐦
+> HO HO HO! FOR THE LAST TIME, I CAN'T TELL YOU, **spirit**! YOU HAVE TO FIGURE IT OUT.🐦
 
-> I AM JUST THE PILOT. I AM TO TRANSPORT THE LIVING ACROSS THE FLOOD. FOR A FEE OF COURSE. AFTER YOU GET OFF, I'LL BE TAKING SOME PHOTONS HO HO HO! 🐦
+> ALL I CAN SAY IS, YOU GOTTA FIND THE SHEPHERD. HE HAS ALL THE ANSWERS HO HO HO 🐦
 
 **Chi** felt scared. At least **the_pilot** didn't want to harm her. 
 
@@ -59,3 +61,59 @@ Full speed ahead. The vessel disappeared into the storm.
 
 
 **the_hemingway** emerged on the other side of the storm.
+
+> calm
+
+It was peaceful in the eye of the storm. But all around them was chaos. The boat descended slowly.
+
+> WE ARE HERE **spirit**. ALL GOOD. YOU'RE WITH THE BEST PILOT IN SILENT VALLEY HO HO HO 🎶 🐦
+
+The boat crashed to the ground.
+
+> HO HO HO DID I MENTION THE ONLY PILOT IN SILENT VALLEY? HO HO HO
+
+**Chi** slowly stepped out of her seat. She could see that the rain was beginning to stop and the flood was receding.
+
+> NOT SO FAST HO HO HO. A PILOT IS ALWAYS PAID HIS DUES. 🎶 🐦
+
+**Chi** snapped her fingers and summoned the orb. She had already paid old bird three times during the trip for all sorts of mundane things from asking simple questions to using the vessel's restroom.
+
+> THANK YOU MISS. I'LL BE OFF 🎶 🐦
+
+As he began to turn around, he paused.
+
+> OH BUT ONE LAST THING **spirit**. **the_shepherd** TOLD ME TO GIVE YOU THIS. HO HO HO 🎶 🐦
+
+He handed her a tattered note. 
+
+It read:
+
+> Find me in the land
+> East of **the_spiral** and West of **the_moon**
+> In a place beneath the deepest point
+> of silent_valley
+> **the_probe** will light the way
+> Start your journey at the **lab of millets**
+> Go west.
+
+> The lab of millets? What did that mean?, she thought
+
+She looked up. **the_pilot** was getting ready to leave.
+
+> Where is the lab of millets?
+
+**the_pilot** laughed. 
+
+> HO HO HO. WEST! YOU MUST GO WEST, he pointed his stick haphazardly to his right.
+
+**the_hemingway** rose up above the clearing in the trees. 
+
++ZOOM+
+
+it was gone.
+
+**Chi** was alone. But she knew one thing for certain.
+
+She had to find **the_shepherd**. He would have all the answers.
+
+So west she walked, as the mist began to settle on **silent_valley**

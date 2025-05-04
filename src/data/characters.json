@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "name": "chi",
+      "description": "This is the first character.",
+      "image": "🌞",
+      "type": "protagonists"
+    },
+    {
+      "id": "2",
+      "name": "rei",
+      "description": "This is the second character.",
+      "image": "🐦‍⬛",
+      "type": "protagonists"
+    },
+    {
+        "id": "3",
+        "name": "the_figure",
+        "description": "This is the second character.",
+        "type": "guide",
+        "image": "🦌"
+    },
+    {
+        "id": "4",
+        "name": "the_pilot",
+        "description": "This is the second character.",
+        "type": "guide",
+        "image": "🐦"
+    },
+    {
+        "id": "5",
+        "name": "the_tiger",
+        "description": "This is the second character.",
+        "type": "beast",
+        "image": "🐅"
+    },
+    {
+        "id": "6",
+        "name": "the_boar",
+        "description": "This is the second character.",
+        "type": "beast",
+        "image": "🐗"
+    }
+  ]

@@ -5,7 +5,11 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const BlogPostTemplate = ({
-  data: { site, markdownRemark: post, allMarkdownRemark: { nodes: allPosts } },
+  data: {
+    site,
+    markdownRemark: post,
+    allMarkdownRemark: { nodes: allPosts },
+  },
   location,
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
@@ -15,7 +19,8 @@ const BlogPostTemplate = ({
 
   // Determine previous and next posts based on the sorted list
   const previous = currentIndex > 0 ? allPosts[currentIndex - 1] : null
-  const next = currentIndex < allPosts.length - 1 ? allPosts[currentIndex + 1] : null
+  const next =
+    currentIndex < allPosts.length - 1 ? allPosts[currentIndex + 1] : null
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -64,6 +69,12 @@ const BlogPostTemplate = ({
           </li>
         </ul>
       </nav>
+
+      <div style={{ textAlign: "center" }}>
+        <Link to="/guide">
+          <span>📖</span>
+        </Link>
+      </div>
     </Layout>
   )
 }
@@ -80,9 +91,7 @@ export const Head = ({ data: { markdownRemark: post } }) => {
 export default BlogPostTemplate
 
 export const pageQuery = graphql`
-  query BlogPostBySlug(
-    $id: String!
-  ) {
+  query BlogPostBySlug($id: String!) {
     site {
       siteMetadata {
         title

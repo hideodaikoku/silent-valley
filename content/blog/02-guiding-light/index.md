@@ -20,7 +20,7 @@ year: y000 m0 d2
 
 **Chi** was outside. there wasn't much she could see in the forest. it was still very dark. and very quiet. it was so quiet that she could hear her own heartbeat. her footsteps seemed to make no sound either. 
 
-the opening behind her closed. no knob, no slit, not a sign one could use to enter again.
+The opening behind her closed. no knob, no slit, not a sign one could use to enter again.
 
 > ok, now what?
 
@@ -36,19 +36,19 @@ the opening behind her closed. no knob, no slit, not a sign one could use to ent
 
 **Chi** looked around frantically in the mist. she could see shrubs, the outlines of trees and mountains in the distance. there really wasn't much more she could see ahead of the mist but it felt like she was being watched.
 
-she began walking forward. looking desperately for sings of life - anything. her heart was still beating from the chase and paranoia of the climb. strangely enough though, she didn't feel tired.
+She began walking forward. looking desperately for sings of life - anything. her heart was still beating from the chase and paranoia of the climb. strangely enough though, she didn't feel tired.
 
 ```
 > init(probe)
 ```
 
-she snapped her fingers. a tiny orb of light appeared. it grew to about the size of an apple. and remained floating in the air.
+She snapped her fingers. a tiny orb of light appeared. it grew to about the size of an apple. and remained floating in the air.
 
 **the_probe** moved forward slowly. and as it floated, she could see the mist clearing away. the plants of **silent_valley** began to rise and reach out to it. color seemed to return to the peonies, and the hydrangeas twisted in delight. the vines cleared away and opened up in a passage like form.
 
-and as **the_probe** grew, the pine grove began to bend. the trees gave way and twisted left to right, parting ways like drawn curtains to an open tunnel.
+And as **the_probe** grew, the pine grove began to bend. the trees gave way and twisted left to right, parting ways like drawn curtains to an open tunnel.
 
-the **the_probe** stopped. it remained floating there, as if beckoning her to follow it. 
+The **the_probe** stopped. it remained floating there, as if beckoning her to follow it. 
 
 > i guess i have no choice then, huh?
 
@@ -90,7 +90,7 @@ the singing stopped.
 +CRACK+
 
 
-lightning and thunder. it began to rain. it began to rain heavily. **Chi** looked at the ground. the water began to rise. the trees began to close in, forest walls began to narrow
+Lightning and thunder. it began to rain. it began to rain heavily. **Chi** looked at the ground. the water began to rise. the trees began to close in, forest walls began to narrow
 
 ||flood||
 
@@ -106,7 +106,7 @@ silence.
 
 > "well at least i'm getting the hang of this."
 
-in the distance she saw what looked like a run-down pathway.
+In the distance she saw what looked like a run-down pathway.
 
 > "must be the right direction"
 
@@ -114,23 +114,23 @@ in the distance she saw what looked like a run-down pathway.
 > walk()
 ```
 
-chi scurried towards the path ahead. she could hear a distant humming, almost like an old man singing.
+**Chi** scurried towards the path ahead. she could hear a distant humming, almost like an old man singing.
 
 <hr/>
 
 ## meanwhile
 
-in the distance, **the_figure** re-appeared. though a slit in space.
+In the distance, **the_figure** re-appeared. though a slit in space.
 
-he peered down at the path from the treetops. 
+He peered down at the path from the treetops. 
 
 > "good. she figured out how to use the probe." 🦌
 
-and slipped out of sight as he watched she walk towards **river**. 
+And slipped out of sight as he watched she walk towards **river**. 
 
 > "five clicks until the hunters find her. if only i could warn her." 🦌
 
-he sighed
+He sighed.
 
 > ***+touch+***
 
@@ -138,11 +138,11 @@ rainfall. and a warning.
 
 > "that should do it" 🦌
 
-he looked again at his wrist. the circuits were starting to fade. 
+He looked again at his wrist. the circuits were starting to fade. 
 
 > "not much time left for me either" 🦌
 
-six beats.
+Six beats.
 
 +click+
 

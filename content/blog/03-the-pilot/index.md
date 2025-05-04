@@ -2,7 +2,7 @@
 title: 03 the pilot  
 chapter: 4  
 description: a strange encounter
-year: y001 m0 d3  
+year: y000 m0 d3  
 ---
 
 > 

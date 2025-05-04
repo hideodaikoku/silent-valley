@@ -2,7 +2,7 @@
 title: 04 darkness of the soul
 chapter: 5  
 description: a shadow emerges
-year: y001 m0 d0 
+year: y000 m0 d4 
 ---
 
 ## inversion
@@ -107,8 +107,6 @@ He looked at the two moons in the sky. They were almost overlapping.
 
 > *Not good. Looks like an eclipse is about to begin.* 🐦‍⬛
 
-It started to rain. He peered over to his right and saw **the_flash**. Time running out.
-
-**Chi** would be fine without him... at least for now 
+Time running out.
 
 -BLIP-

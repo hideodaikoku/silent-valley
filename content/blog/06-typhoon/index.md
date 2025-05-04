@@ -64,7 +64,7 @@ Full speed ahead. The vessel disappeared into the storm.
 
 > calm
 
-It was peaceful in the eye of the storm. But all around them was chaos. The boat descended slowly.
+The boat descended slowly onto a clearing. The rain had subsided. She could see an open paddy field in the distance.
 
 > WE ARE HERE **spirit**. ALL GOOD. YOU'RE WITH THE BEST PILOT IN SILENT VALLEY HO HO HO 🎶 🐦
 
@@ -116,4 +116,4 @@ it was gone.
 
 She had to find **the_shepherd**. He would have all the answers.
 
-So west she walked, as the mist began to settle on **silent_valley**
+So west she walked, as the mist began to settle on **silent_valley**. 

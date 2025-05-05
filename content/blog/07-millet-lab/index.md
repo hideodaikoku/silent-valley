@@ -2,7 +2,7 @@
 title: 07 millet lab
 chapter: 8  
 description: the echo chamber
-year: y000 m0 d6 
+year: y001 m08 d28 pre-eclipse
 ---
 
 # the echo chamber

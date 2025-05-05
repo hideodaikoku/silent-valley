@@ -40,5 +40,12 @@
         "description": "This is the second character.",
         "type": "beast",
         "image": "🐗"
+    },
+    {
+        "id": "7",
+        "name": "the_mouse",
+        "description": "This is the second character.",
+        "type": "beast",
+        "image": "🐁"
     }
   ]

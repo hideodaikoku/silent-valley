@@ -100,24 +100,24 @@ The door seemed to hold. They weren't getting through here.
 
 > "Phewh" **Chi** let out a momentary sigh of relief. 
 
+She turned around to glance at the room. It was dimly lit, Save for a large table with a light and a statue of a man in the center. At his feet was a pool of blood and behind him, complete darkness.
 
-She turned around to glance at the room. It was dark and dimly lit. Save for a large table and a few monitors with switches much like the ones she saw aboard **the_hemmingway**.
+![illustration by Christian Hagerman](./hagerman.jpg)
 
-Beyond the table was darkness.
 
-**Chi** walked towards the table, trying to look for an exit door. Her footsteps seemed to echo indefinitely. 
+**Chi** walked towards the statue, her footsteps echoed in the silence of the room.
 
 > **Chi** squinted.
 
-She could make out the faint glint of something large and furry.
+She could make out the faint glint of something large and furry behind the statue. The silhouette grew larger.
 
-A single, enormous mouse with deep red bloodshot eyes emerged from inside.
+Then, a single enormous mouse with deep red bloodshot eyes emerged from behind the fog.
 
 > **Chi** shrieked
 
-The rodent grinned in a sinister, baring a dozen sharp teeth.
+The mouse grinned in a sinister, baring more than a few dozen sharp teeth.
 
-This mouse was different. It seemed to be intelligent, study her every expression and move. It had several extra human like limbs and was covered in circuitry. 
+The mouse looked at her from head to toe. Carefully studying her every move.
 
 **the_mouse** spoke slowly:
 

@@ -1,6 +1,6 @@
 ---
 title: 06 typhoon
-chapter: 5  
+chapter: 7  
 description: the eye of the storm
 year: y000 m0 d6 
 ---

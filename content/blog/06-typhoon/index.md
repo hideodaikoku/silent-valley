@@ -19,13 +19,13 @@ One by one, **the_pilot** replied with guttural laughter between sips of pale al
 
 > ALL I CAN SAY IS, YOU GOTTA FIND THE SHEPHERD. HE HAS ALL THE ANSWERS HO HO HO 🐦
 
-**Chi** felt scared. At least **the_pilot** didn't want to harm her. 
+**Chi** felt scared. But at least **the_pilot** didn't want to harm her. 
 
 She looked out the window. The rain was starting to get heavier and the winds started to get stronger.
 
 +WHOOSH+
 
-A gale rocked **the_hemingway** to and fro. **Chi** felt her stomach turn.
+A gale rocked **the_hemingway** to and fro. **Chi** felt her stomach churn.
 
 **the_pilot** had warned her to not look into the sky, for doing so was bad luck.
 
@@ -99,11 +99,11 @@ It read:
 > Reckon with **the_probe**
 > Enter west
 
-> The lab of millets? What did that mean?, she thought
+> West of the moon? What did that mean?, she thought
 
 She looked up. **the_pilot** was getting ready to leave.
 
-> Where is the lab of millets?
+> Where do I need to go?
 
 **the_pilot** laughed. 
 

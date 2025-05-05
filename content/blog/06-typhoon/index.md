@@ -5,7 +5,7 @@ description: the eye of the storm
 year: y000 m0 d6 
 ---
 
-# typhoon
+# eye of the storm
 
 ![night on bald mountain](./nielsen.jpeg)
 
@@ -59,8 +59,11 @@ Full speed ahead. The vessel disappeared into the storm.
 
 -BLIP-
 
+Time seemed to have stopped. The rain sat still against the window sill like tiny specks of paint on a canvas.
 
-**the_hemingway** emerged on the other side of the storm.
+**the_hemingway** drifted slowly into an invisible wall of sound for what seemed like hours.
+
+And then all at once it emerged on the other side of the storm.
 
 > calm
 
@@ -89,12 +92,12 @@ He handed her a tattered note.
 It read:
 
 > Find me in the land
-> East of **the_spiral** and West of **the_moon**
-> In a place beneath the deepest point
-> of silent_valley
-> **the_probe** will light the way
-> Start your journey at the **lab of millets**
-> Go west.
+> East of **the_spiral**
+> And West of **the_moon**
+> To a place 
+> Under the deep below
+> Reckon with **the_probe**
+> Enter west
 
 > The lab of millets? What did that mean?, she thought
 
@@ -110,7 +113,7 @@ She looked up. **the_pilot** was getting ready to leave.
 
 +ZOOM+
 
-it was gone.
+It was gone.
 
 **Chi** was alone. But she knew one thing for certain.
 

@@ -5,7 +5,7 @@ description: a new kind of science
 year: y001 m08 d29 pre-eclipse
 ---
 
-## an exposition
+## an new kind of science
 
 ![miotaur](./minotaur.jpeg)
 
@@ -18,7 +18,7 @@ year: y001 m08 d29 pre-eclipse
 
 He turned his head up and sniffed the air, almost in as though he was straightening himself uo.
 
-> *I AM *APH^EX^*, THE_MOUSE - CHIEF SCIENTIST AT **AGRICULTURAL_FOUNDATION** OF **SILENT_VALLEY**, FOUNDER OF MILLET LAB* 🐁
+> *I AM ***APH^EX^***, THE_MOUSE - CHIEF SCIENTIST AT **AGRICULTURAL_FOUNDATION** OF **SILENT_VALLEY**, FOUNDER OF MILLET LAB* 🐁
 
 He paused.
 
@@ -26,7 +26,7 @@ He paused.
 
 > **hybrid_general_intelligence**? what does that even mean? **chi** thought to herself.
 
-> *IT MEANS WHAT YOU THINK IT MEANS*, APH^EX^ smirked. 🐁
+> *IT MEANS WHAT YOU THINK IT MEANS*, **APH^EX^** smirked. 🐁
 
 ++
 
@@ -89,9 +89,15 @@ He lifted his tail and grabbed her, slowly wrapping it around her body.
 
 Something seemed familiar about this encounter. She trusted her instincts and jumped up.
 
+```
+> purify()
+```
+
 Her body floated up in unison and did a full somersault in the air.
 
 While in mid air she clapped her hands in to a series of hand formations.
+
+<hr/>
 
 +EARTH+
 +WIND+
@@ -116,6 +122,8 @@ While in mid air she clapped her hands in to a series of hand formations.
 ++
 
 +DREAM+
+
+<hr/>
 
 The room filled itself with a bright light. ***APH^EX^*** began to shrink. 
 

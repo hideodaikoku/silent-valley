@@ -140,4 +140,4 @@ The mouse looked at her from head to toe. Carefully studying her every move.
 
 An unsettling static noise started to emanate from the walls.
 
-Could this day get any worse?
+The hole in the chest seemed to grow larger. Could this day get any worse?

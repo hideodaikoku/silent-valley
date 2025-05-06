@@ -5,9 +5,9 @@ description: a new kind of science
 year: y001 m08 d29 pre-eclipse
 ---
 
-## an new kind of science
+## a new kind of science
 
-![miotaur](./minotaur.jpeg)
+![minotaur](./minotaur.jpeg)
 
 **Chi** was frozen, transfixed at the gaze of the large talking mouse. His red bloodshot eyes seemed to look right through her, but for some reason she felt like he could read her every thought.
 

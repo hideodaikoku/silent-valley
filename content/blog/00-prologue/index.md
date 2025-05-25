@@ -32,9 +32,9 @@ In the waking hours of the hour of the fowl, the forest floor of **silent_valley
 
 The forest was shrouded in mist; one could barely see past the serpentine vines of the thicket. A deep tone, dark and beckoning, spoke to the darkness of **silent_valley**. There was no sun, and no light, save for the ocean of despair in the departure of life.
 
-Beyond the bramble of towering pine fortresses stood **the_spiral**. A tall, concrete ark-hollowed and solid. No doors. No windows. No cracks. Just a massive slab with corridors stretching out like bridges into the mist above **silent_valley**. No vines. No moss. No sign of life. It was out of place, alien in the thick jungle. Where did it come from? What was it for?
+Beyond the bramble of towering pine fortresses stood **the_spiral**. A tall, concrete ark-hollowed out and solid. No doors. No windows. No cracks. Just a massive slab with corridors stretching out like bridges into the mist above **silent_valley**. No vines. No moss. No sign of life. It was out of place - alien in the thick jungle. Where did it come from? What was it for? Who built it?
 
-The animals worshiped **the_spiral** as an ancient force of nature. Legend said all that approached would wither to ash and aether. Once every two hundred and seventy-six days, a slit of light would emerge, giving way to three beacons of light, shooting into the sky. They called this event **the_flash**. It would only last for one week, but it was enough for the animals of **silent_valley** to bask in it's light and rejoice. Sound and color would fill the void of **silent_valley**'s mist. 
+The animals worshiped **the_spiral** as an ancient force of nature. Legend said all that approached would wither to ash and aether. But once every two hundred and seventy-six days, a tiny slit of light would emerge, giving way to three beacons of light, shooting into the sky. They called this event **the_flash**. It would only last for one week, but it was enough for the animals of **silent_valley** to bask in it's light and rejoice. Sound and color would fill the void of **silent_valley**'s mist. 
 
 Flowers would bloom momentarily and the trees would sing to each other.
 
@@ -76,7 +76,7 @@ The weight of his ancestors knew what that meant.
 
 ++
 
-**the_tiger** rose up from his seat and growled, blinking one eye at a time. The archers dipped their arrows in fire from the trees and shot. **the_ape** rang the bell of **the_hunt**. The boar squealed and writhed in anticipation from the shackles of his iron cage. The battle drums of **silent_valley** started to turn the forest floor into a ritual ground for sacrifice. 
+**the_tiger** rose up from his seat and growled, blinking one eye at a time. The archers dipped their arrows in fire from the trees and shot. **the_ape** blew the horn of **the_hunt**. The boar squealed and writhed in anticipation from the shackles of his iron cage. The battle drums of **silent_valley** started to turn the forest floor into a ritual ground for sacrifice. 
 
 And so began the song of the hunt.
 
@@ -115,9 +115,9 @@ And so began the song of the hunt.
 
 A hooded figure stood above the puddle of blood where **the_boar** once fell. 
 
-he had pale skin with silver white tattoos running like circuitry around his entire body. he was neither dead nor alive. **the_figure** was silken and translucent like a bio-luminescent ghost. 
+he had pale skin with silver white tattoos running like circuitry around his entire body. he was neither dead nor alive - a bio-luminescent ghost trapped between time and space. 
 
-He looked around for signs of life. Nothing. The tiger left not a shred of sinew on the bones of the poor beast. 
+He looked around for signs of life. Nothing. **the_tiger** left not a shred of sinew on the bones of the poor beast. 
 
 >  ***+scent+*** he thought 🦌
 
@@ -125,11 +125,11 @@ He looked around for signs of life. Nothing. The tiger left not a shred of sinew
 
 **the_figure** wrote down an inscription on the flask and slipped it into his bag of vials. 
 
-with three dots on the forest floor, **the_figure** drew a diffusion map. 
+Painting three dots on the forest floor, **the_figure** drew a diffusion map. 
 
 ![diffusion](./diffusion.png)
 
-the sand of the forest floor began to shift into a pattern of twisting roots. water seeped into the center of the hole at the base of **the_figure**'s feet. it rose to his knees, and as he looked up, two antlers grew from the base of his head, as he twisted into a seven foot tall shadow of a humanoid elk hybrid.
+the sand of the forest floor began to shift into a pattern of twisting roots. water seeped into the center of the hole at the base of **the_figure**'s feet. it rose to his knees, and as he looked up, two antlers grew from the base of his head. His silhouette twisted into a seven foot tall shadow of a humanoid elk hybrid.
 
 > ***+transformation+*** 🦌
 

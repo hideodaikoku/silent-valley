@@ -42,7 +42,7 @@ She began walking forward. looking desperately for sings of life - anything. her
 > init(probe)
 ```
 
-She snapped her fingers. a tiny orb of light appeared. it grew to about the size of an apple. and remained floating in the air.
+She snapped her fingers. a tiny orb of light in the shape of a dragonfly appeared. it grew to about the size of an apple. and remained floating in the air.
 
 **the_probe** moved forward slowly. and as it floated, she could see the mist clearing away. the plants of **silent_valley** began to rise and reach out to it. color seemed to return to the peonies, and the hydrangeas twisted in delight. the vines cleared away and opened up in a passage like form.
 

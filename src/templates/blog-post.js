@@ -71,8 +71,8 @@ const BlogPostTemplate = ({
       </nav>
 
       <div style={{ textAlign: "center" }}>
-        <Link to="/guide">
-          <span>📖</span>
+        <Link to="/glossary">
+          <span>+glossary+</span>
         </Link>
       </div>
     </Layout>

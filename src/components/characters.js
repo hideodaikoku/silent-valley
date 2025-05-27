@@ -7,15 +7,14 @@ const Characters = () => {
 
   return (
     <div>
-      <h1 style={{ textAlign: "center", marginBottom: "2rem" }}>characters</h1>
+      <h1 style={{ textAlign: "left"}}>glossary</h1>
       {types.map(type => (
-        <div key={type} style={{ marginBottom: "2rem" }}>
+        <div key={type}>
           <h2>{type}</h2>
           <div
             style={{
-              display: "grid",
-              gridTemplateColumns: "repeat(auto-fit, minmax(200px, 1fr))",
-              gap: "1rem",
+              display: "flex",
+              flexWrap: "wrap",
             }}
           >
             {charactersData
@@ -24,16 +23,11 @@ const Characters = () => {
                 <div
                   key={character.id}
                   style={{
-                    border: "1px solid #ccc",
-                    borderRadius: "8px",
-                    padding: "1rem",
                     textAlign: "center",
-                    minWidth: "200px",
                   }}
                 >
-                  <div style={{ fontSize: "2rem" }}>{character.image}</div>
-                  <h3>{character.name}</h3>
-                  {/* <p>{character.description}</p> */}
+                  <h3 style={{textAlign: "left"}}><span>{character.image}</span>{" "}{character.name}</h3>
+                  <p style={{textAlign: "left"}}>{character.description}</p>
                 </div>
               ))}
           </div>

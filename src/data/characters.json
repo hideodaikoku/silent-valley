@@ -2,49 +2,49 @@
     {
       "id": "1",
       "name": "chi",
-      "description": "This is the first character.",
+      "description": "Chi is the spirit, a feminine entity birthed from the shadow of the_spiral. She is the embodiment of light and hope, guiding others through the darkness.",
       "image": "🌞",
       "type": "protagonists"
     },
     {
       "id": "2",
       "name": "rei",
-      "description": "This is the second character.",
+      "description": "Rei is the soul, a masculine entity born from the source of the_spiral. He represents strength and courage, standing as a protector against the shadows.",
       "image": "🐦‍⬛",
       "type": "protagonists"
     },
     {
         "id": "3",
         "name": "the_figure",
-        "description": "This is the second character.",
+        "description": "the_figure is a mysterious guide, trapped by something sinister. He appeared at the end of the hunt, collecting the lost souls of the forest to help keep the spirit of silent valley alive",
         "type": "guide",
         "image": "🦌"
     },
     {
         "id": "4",
         "name": "the_pilot",
-        "description": "This is the second character.",
+        "description": "The pilot is an old sailor from a forgotten time. The pilot guides lost spirits across the lake of silent valley for a price and tells them stories.",
         "type": "guide",
         "image": "🐦"
     },
     {
         "id": "5",
         "name": "the_tiger",
-        "description": "This is the second character.",
+        "description": "A ruthless predator and self-proclaimed king of **silent_valley**. Kingpin of the_candy_factory",
         "type": "beast",
         "image": "🐅"
     },
     {
         "id": "6",
         "name": "the_boar",
-        "description": "This is the second character.",
+        "description": "The boar is the last animal to be hunted in silent valley before the eclipse.",
         "type": "beast",
         "image": "🐗"
     },
     {
         "id": "7",
         "name": "the_mouse",
-        "description": "This is the second character.",
+        "description": "The mouse APH^EX^ is a the chief scientist at millet lab and the mastermind behind the experiments that led to the creation of the_candy at the_candy_factory.",
         "type": "beast",
         "image": "🐁"
     }

@@ -5,7 +5,7 @@ import Characters from "../components/characters"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const Guide = ({ data, location }) => {
+const Glossary = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
 
   return (
@@ -15,7 +15,7 @@ const Guide = ({ data, location }) => {
   )
 }
 
-export default Guide
+export default Glossary
 
 export const Head = () => <Seo title="silent valley" />
 

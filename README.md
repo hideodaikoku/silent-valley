@@ -13,7 +13,7 @@
 > the spirit is the sun \
 > the spirit is life itself \
 > the universe \
-> and everything in between \
+> and everything in between
 
 - y2025 m05 d09
 <!-- AUTO-GENERATED-CONTENT:END -->

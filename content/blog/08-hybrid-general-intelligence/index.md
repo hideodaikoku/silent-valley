@@ -120,6 +120,6 @@ Until he collapsed into the size of a tiny, frail man with a limp arm.
 
 She let out a sigh of relief. Whatever she did, seemed to have turned him back to his former self.
 
-But her mind was full of questions. How did this work? Who was she really, and why had **the_shepherd** asked her to head west?
+But her mind was full of questions. How did this work? Who was she really, and why had **the_shepherd** asked her to head north?
 
 It was time to get some answers.

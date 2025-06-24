@@ -92,12 +92,12 @@ He handed her a tattered note.
 It read:
 
 > Find me in the land
-> East of **the_spiral**
-> And West of **the_moon**
+> South of **the_spiral**
+> And North of **the_moon**
 > To a place 
 > Under the deep below
 > Reckon with **the_probe**
-> Enter west
+> Enter North
 
 > West of the moon? What did that mean?, she thought
 
@@ -107,7 +107,7 @@ She looked up. **the_pilot** was getting ready to leave.
 
 **the_pilot** laughed. 
 
-> HO HO HO. WEST! YOU MUST GO WEST, he pointed his stick haphazardly to his right.
+> HO HO HO. NORTH! YOU MUST GO NORTH, he pointed his stick haphazardly to his right.
 
 **the_hemingway** rose up above the clearing in the trees. 
 
@@ -119,4 +119,4 @@ It was gone.
 
 She had to find **the_shepherd**. He would have all the answers.
 
-So west she walked, as the mist began to settle on **silent_valley**. 
+So north she walked, as the mist began to settle on **silent_valley**. 

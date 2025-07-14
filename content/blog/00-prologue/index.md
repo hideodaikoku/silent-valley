@@ -1,5 +1,5 @@
 ---
-title: 00 prologue
+title: 00 the hunt
 chapter: 1
 description: "welcome to the hunt"
 year: y000 m0 d1

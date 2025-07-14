@@ -11,7 +11,7 @@ import silentValleyImage from "../images/silent-valley.png"
 // Helper function to chunk an array into groups of a given size
 function chunkArray(array, size) {
   const result = []
-  for (let i = 1; i < array.length; i += size) {
+  for (let i = 1 ; i < array.length; i += size) {
     result.push(array.slice(i, i + size))
   }
   return result
@@ -34,10 +34,16 @@ const BlogIndex = ({ data, location }) => {
     )
   }
 
-  // Sort posts by chapter and chunk into acts of 8
-  const sortedPosts = [...posts].sort((a, b) => a.frontmatter.chapter - b.frontmatter.chapter)
-  const acts = chunkArray(sortedPosts, 8)
+  // Separate the prologue (chapter 0)
+  const prologuePost = posts.find(post => post.frontmatter.chapter === 1)
+  const remainingPosts = posts.filter(post => post.frontmatter.chapter !== 1)
 
+  // Sort the remaining posts by chapter and chunk into acts of 8
+  const sortedPosts = [...remainingPosts].sort(
+    (a, b) => a.frontmatter.chapter - b.frontmatter.chapter
+  )
+  const acts = chunkArray(sortedPosts, 8)
+  
   return (
     <Layout location={location} title={siteTitle}>
       <img
@@ -47,6 +53,43 @@ const BlogIndex = ({ data, location }) => {
       />
       <hr />
       <h2>table of contents</h2>
+
+      {/* Display the prologue link first if it exists */}
+      {prologuePost && (
+        <section style={{ marginBottom: "2rem" }}>
+          <h2 style={{ marginTop: "2rem" }}>{'act 00'}</h2>
+          <ol style={{ listStyle: `none`, paddingLeft: 0 }}>
+            <li key={prologuePost.fields.slug} style={{ marginBottom: "1.5rem" }}>
+              <article
+                className="post-list-item"
+                itemScope
+                itemType="http://schema.org/Article"
+              >
+                <header>
+                  <h2 style={{ marginBottom: 0 }}>
+                    <Link to={prologuePost.fields.slug} itemProp="url">
+                      <span itemProp="headline">
+                        {prologuePost.frontmatter.title || prologuePost.fields.slug}
+                      </span>
+                    </Link>
+                  </h2>
+                  <small>{prologuePost.frontmatter.date}</small>
+                </header>
+                <section>
+                  <p
+                    dangerouslySetInnerHTML={{
+                      __html: prologuePost.frontmatter.description || prologuePost.excerpt,
+                    }}
+                    itemProp="description"
+                  />
+                </section>
+              </article>
+            </li>
+          </ol>
+        </section>
+      )}
+
+      {/* Render the acts */}
       {acts.map((actPosts, idx) => (
         <section key={idx} style={{ marginBottom: "2rem" }}>
           <h2 style={{ marginTop: "2rem" }}>{`act 0${idx + 1}`}</h2>
@@ -115,6 +158,7 @@ export const pageQuery = graphql`
           slug
         }
         frontmatter {
+          date(formatString: "MMMM DD, YYYY")
           year
           title
           chapter

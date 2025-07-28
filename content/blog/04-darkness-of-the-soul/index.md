@@ -20,20 +20,20 @@ year: y000 m0 d4
 > of a wilder call \
 > :: how may I be \
 > of service? \
-> ー the_soul :: y099 pre-eclipse
+> ー the soul :: y099 pre-eclipse
 
-Something shifted in the silence of the inner side of the inverted helix in **the_spiral**. From the shadows, emerged a boy. a boy with straight black hear and beady black eyes, in a tall slender, yet muscular body, shrouded head to toe in black tattoos with intricate gold circuits running through his veins. 
+Something shifted in the silence of the inner side of the inverted helix in **the spiral**. From the shadows, emerged a boy. a boy with straight black hear and beady black eyes, in a tall slender, yet muscular body, shrouded head to toe in black tattoos with intricate gold circuits running through his veins. 
 
 ```
-#define reboot_protocol
+#define reboot protocol
 > initialize("Rei")
 ```
 
-He opened his eyes. He could see the faint path left behind on **the_spiral** by **Chi**. He knew what he had to do, unlike her his memory persisted through each cycle - a blessing and a curse for his dark soul.
+He opened his eyes. He could see the faint path left behind on **the spiral** by **Chi**. He knew what he had to do, unlike her his memory persisted through each cycle - a blessing and a curse for his dark soul.
 
 +INVERSION+
 
-**Rei** released his rope harnesses in one singular motion, and ascended up twenty flights up **the_spiral**.
+**Rei** released his rope harnesses in one singular motion, and ascended up twenty flights up **the spiral**.
 
 > *advantages of being second* he thought. *don't have to carve my own path* 🐦‍⬛
 
@@ -45,7 +45,7 @@ For **Rei** the darkness was his home. He found comfort in the shadows. He could
 
 > *the passage should be around here* 🐦‍⬛
 
-**Rei** pushed his fingers into a crevice in the wall and opened the portal to **the_lobby**. 
+**Rei** pushed his fingers into a crevice in the wall and opened the portal to **the lobby**. 
 
 he dialed the numbers, just like last time.
 
@@ -69,7 +69,7 @@ the doors emerged.
 
 -blip-
 
-**the_lobby** converged to a single dot.
+**the lobby** converged to a single dot.
 
 <hr/>
 
@@ -83,7 +83,7 @@ He looked at the path of lit up footsteps **Chi** had left behind.
 
 > *when will she ever learn to cover her tracks?*, he thought 🐦‍⬛
 
-He glanced at the clouds. first flood was about to start any moment now. he'd best hurry to **the_great_plains** and continue his search for **the_shepherd**. 
+He glanced at the clouds. first flood was about to start any moment now. he'd best hurry to **the great plains** and continue his search for **the shepherd**. 
 
 **Rei** knew he couldn't rely on **Chi**. Not after last time. 
 

@@ -9,7 +9,7 @@ year: y001 m08 d29 pre-eclipse
 
 > not all who wander
 > are lost
-> ー the_shepherd :: y023 post-eclipse
+> ー the shepherd :: y023 post-eclipse
 
 ![minotaur](./minotaur.jpeg)
 
@@ -21,13 +21,13 @@ As he moved into the light she could make out that he was very old, possibly mal
 
 He turned his head up and sniffed the air, almost in as though he was straightening himself uo.
 
-> *I AM ***APH^EX^***, CHIEF SCIENTIST AT **THE_AGRICULTURAL_FOUNDATION** OF **SILENT_VALLEY*** 🐁
+> *I AM ***APH^EX^***, CHIEF SCIENTIST AT **THE AGRICULTURAL FOUNDATION** OF **SILENT VALLEY*** 🐁
 
 He paused, studying the silence.
 
->*YOU SEE, A FEW DECADES AGO, A FEW OF THE BRIGHTEST MINDS IN SILENT VALLEY SET OUT ON A JOURNEY TO FIND **HYBRID_GENERAL_INTELLIGENCE**.* 🐁
+>*YOU SEE, A FEW DECADES AGO, A FEW OF THE BRIGHTEST MINDS IN SILENT VALLEY SET OUT ON A JOURNEY TO FIND **HYBRID GENERAL INTELLIGENCE**.* 🐁
 
-> **hybrid_general_intelligence**? what does that even mean? **chi** thought to herself.
+> **hybrid general intelligence**? what does that even mean? **chi** thought to herself.
 
 > *HYBRID INTELLIGENCE MEANS WHAT YOU THINK IT MEANS*, **APH^EX^** smirked. 🐁
 
@@ -41,23 +41,23 @@ He paused, studying the silence.
 
 **Chi** felt a darkness creep up her spine. She was incredibly uncomfortable, yet she had no other choice but to do as she was told.
 
-> *AS I WAS SAYING*, he continued *IN OUR SEARCH FOR FINDING THE CURE TO **THE_PLAGUE** WE TRIED TO SIMULATE **HYBRID_INTELLIGENCE**.* 🐁
+> *AS I WAS SAYING*, he continued *IN OUR SEARCH FOR FINDING THE CURE TO **THE PLAGUE** WE TRIED TO SIMULATE **HYBRID INTELLIGENCE**.* 🐁
 
 He turned to his side.
 
-> *WE HARNESSED THE POWER OF **GENE_EDITING** AND **SOMATIC_CELL_NUCLEAR_TRANSFER** TO CREATE THE FIRST GENERATION OF HUMAN ANIMAL HYBRIDS - STARTING WITH ME - **APH^EX^**.* 🐁
+> *WE HARNESSED THE POWER OF **GENE EDITING** AND **SOMATIC CELL NUCLEAR TRANSFER** TO CREATE THE FIRST GENERATION OF HUMAN ANIMAL HYBRIDS - STARTING WITH ME - **APH^EX^**.* 🐁
 
 His took a deep breath.
 
-> *THE EXPERIMENT GRANTED ME THE ABILITY TO CLONE MYSELF AND SHARE THAT KNOWLEDGE AS A FORM OF COLLECTIVE INTELLIGENCE. TOGETHER WE CREATED A WHOLE NEW KIND OF SCIENCE. WE MADE ADVANCEMENTS IN **NEURO_ALCHEMY**, **TECHNO_AGRICULTURE** AND **BIO_POLITICAL_ENGINEERING*** 🐁
+> *THE EXPERIMENT GRANTED ME THE ABILITY TO CLONE MYSELF AND SHARE THAT KNOWLEDGE AS A FORM OF COLLECTIVE INTELLIGENCE. TOGETHER WE CREATED A WHOLE NEW KIND OF SCIENCE. WE MADE ADVANCEMENTS IN **NEURO ALCHEMY**, **TECHNO AGRICULTURE** AND **BIO POLITICAL ENGINEERING*** 🐁
 
 His head sank.
 
-> *BUT THINGS DIDN'T GO ACCORDING TO PLAN. THE EXPERIMENTS LEFT ME **PERMANENTLY_BLIND** AND TURNED ALL THE CLONES **FERAL**.* 🐁
+> *BUT THINGS DIDN'T GO ACCORDING TO PLAN. THE EXPERIMENTS LEFT ME **PERMANENTLY BLIND** AND TURNED ALL THE CLONES **FERAL**.* 🐁
 
 His ears twitched.
 
-> ***LADY_PEACOCK** GRANTED US AID BY FUNDING **MILLET_LAB** AND KEPT US HERE UNTIL WE I FOUND A CURE. THE CURE DIDN'T TAKE TIME TO FORMULATE, BUT THERE IS **ONE MISSING INGREDIENT**....* 🐁
+> ***LADY PEACOCK** GRANTED US AID BY FUNDING **MILLET LAB** AND KEPT US HERE UNTIL WE I FOUND A CURE. THE CURE DIDN'T TAKE TIME TO FORMULATE, BUT THERE IS **ONE MISSING INGREDIENT**....* 🐁
 
 
 **Chi** knew what he was going to say. Something about this conversation seemed familiar.
@@ -66,7 +66,7 @@ His ears twitched.
 
 +CLAP+
 
-Without a moment's hesitation she snapped as **the_probe** expanded to fill the room with light.
+Without a moment's hesitation she snapped as **the probe** expanded to fill the room with light.
 
 The light faded. **APH^EX^** didn't flinch.
 
@@ -120,6 +120,6 @@ Until he collapsed into the size of a tiny, frail man with a limp arm.
 
 She let out a sigh of relief. Whatever she did, seemed to have turned him back to his former self.
 
-But her mind was full of questions. How did this work? Who was she really, and why had **the_shepherd** asked her to head north?
+But her mind was full of questions. How did this work? Who was she really, and why had **the shepherd** asked her to head north?
 
 It was time to get some answers.

@@ -13,13 +13,13 @@ The buildings were surrounded by a metal fence on all sides, with what looked li
 
 The millet fields had remnants of rusty structures and abandoned robots the size of elephants - the detritus of a forgotten war. 
 
-Right by the edge of the fence was an opening with a signboard that read in large mustard letters "**millet_lab**". Above it was a symbol that was possibly the logo of the aforementioned lab.
+Right by the edge of the fence was an opening with a signboard that read in large mustard letters "**millet lab**". Above it was a symbol that was possibly the logo of the aforementioned lab.
 
-![millet lab logo](./millet_lab.png)
+![millet lab logo](./millet lab.png)
 
 Below the sign was a small description that read
 
-*this facility is for researchers of the **agricultural_foundation of silent_valley** only. trespassers will be prosecuted*
+*this facility is for researchers of the **agricultural foundation of silent valley** only. trespassers will be prosecuted*
 
 There was an eerie silence that filled the compound - a silence that lent itself to the hiss of electric signals and murky water. 
 
@@ -29,7 +29,7 @@ Out of the corner of her eyes **chi** saw something move. She could hear a gentl
 
 > "I guess I should follow the humming?"
 
-Beside her **the_probe** seemed to glow in agreement.
+Beside her **the probe** seemed to glow in agreement.
 
 With nowhere else to go, **chi** reluctantly snuck beneath an opening in the fence and tip-toed towards the humming.
 
@@ -43,13 +43,13 @@ Another figure scurried from behind her. She turned around quickly.
 
 > "Must be my imagination"
 
-**Chi** was beginning to feel afraid. Maybe this wasn't the right way. But **the_probe** seemed to glow reassuringly. 
+**Chi** was beginning to feel afraid. Maybe this wasn't the right way. But **the probe** seemed to glow reassuringly. 
 
 **Chi** trusted its guidance and continued across the mud-strewn corridor.
 
 At the end of the walkway, was a large steel door. It was surprisingly clean and untouched relative to the rest of the building. 
 
-Beside the door on the wall, she could see a device, similar to the one at the end of **the_spiral**.
+Beside the door on the wall, she could see a device, similar to the one at the end of **the spiral**.
 
 ```
 > dial('16-42-24');
@@ -69,7 +69,7 @@ A severed eye! **Chi** fell back in horror.
 
 This was no ordinary laboratory. Something sinister was in here with her. 
 
-She glanced that **the_probe**. It had started to pulsate in an odd frequency.
+She glanced that **the probe**. It had started to pulsate in an odd frequency.
 
 > "maybe it's time to get out of here!"
 
@@ -77,7 +77,7 @@ She turned around. The door had closed behind her!
 
 > "Of course it's locked"
 
-The door wouldn't budge. She had to look for another exit. **the_probe** started to beckon at her to move to the left.
+The door wouldn't budge. She had to look for another exit. **the probe** started to beckon at her to move to the left.
 
 ```
 > follow()
@@ -134,7 +134,7 @@ The mouse grinned in a sinister way, baring more than a few dozen sharp teeth.
 
 The mouse looked at her from head to toe. Carefully studying her every move.
 
-**the_mouse** spoke slowly:
+**the mouse** spoke slowly:
 
 > *I HAVE BEEN EXPECTING YOU, SPIRIT. THERE IS MUCH TO DISCUSS.* 🐁
 

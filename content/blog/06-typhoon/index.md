@@ -13,21 +13,21 @@ Back on the boat, **Chi** was still shivering from shock. Her mind was full of q
 
 > Who am I? Why don't I remember anything? Where am I?
 
-One by one, **the_pilot** replied with guttural laughter between sips of pale ale and bad singing.
+One by one, **the pilot** replied with guttural laughter between sips of pale ale and bad singing.
 
 > HO HO HO! FOR THE LAST TIME, I CAN'T TELL YOU, **spirit**! YOU HAVE TO FIGURE IT OUT.🐦
 
 > ALL I CAN SAY IS, YOU GOTTA FIND THE SHEPHERD. HE HAS ALL THE ANSWERS HO HO HO 🐦
 
-**Chi** felt scared. But at least **the_pilot** didn't want to harm her. 
+**Chi** felt scared. But at least **the pilot** didn't want to harm her. 
 
 She looked out the window. The rain was starting to get heavier and the winds started to get stronger.
 
 +WHOOSH+
 
-A gale rocked **the_hemingway** to and fro. **Chi** felt her stomach churn.
+A gale rocked **the hemingway** to and fro. **Chi** felt her stomach churn.
 
-**the_pilot** had warned her to not look into the sky, for doing so was bad luck.
+**the pilot** had warned her to not look into the sky, for doing so was bad luck.
 
 But **chi** could not resist.
 
@@ -49,7 +49,7 @@ Thunder and lightning. Right ahead was an approaching storm.
 
 +CRACK+
 
-**the_pilot** revved up the engine as **the_hemingway** went to full throttle. The rusty parts started to rattle. A pipe burst somewhere but **the_pilot** didn't seem to care.
+**the pilot** revved up the engine as **the hemingway** went to full throttle. The rusty parts started to rattle. A pipe burst somewhere but **the pilot** didn't seem to care.
 
 +ZOOOOM+
 
@@ -61,7 +61,7 @@ Full speed ahead. The vessel disappeared into the storm.
 
 Time seemed to have stopped. The rain sat still against the window sill like tiny specks of paint on a canvas.
 
-**the_hemingway** drifted slowly into an invisible wall of sound for what seemed like hours.
+**the hemingway** drifted slowly into an invisible wall of sound for what seemed like hours.
 
 And then all at once it emerged on the other side of the storm.
 
@@ -85,31 +85,31 @@ The boat crashed to the ground.
 
 As he began to turn around, he paused.
 
-> OH BUT ONE LAST THING **spirit**. **the_shepherd** TOLD ME TO GIVE YOU THIS. HO HO HO 🎶 🐦
+> OH BUT ONE LAST THING **spirit**. **the shepherd** TOLD ME TO GIVE YOU THIS. HO HO HO 🎶 🐦
 
 He handed her a tattered note. 
 
 It read:
 
 > Find me in the land
-> South of **the_spiral**
-> And North of **the_moon**
+> South of **the spiral**
+> And North of **the moon**
 > To a place 
 > Under the deep below
-> Reckon with **the_probe**
+> Reckon with **the probe**
 > Enter North
 
 > West of the moon? What did that mean?, she thought
 
-She looked up. **the_pilot** was getting ready to leave.
+She looked up. **the pilot** was getting ready to leave.
 
 > Where do I need to go?
 
-**the_pilot** laughed. 
+**the pilot** laughed. 
 
 > HO HO HO. NORTH! YOU MUST GO NORTH, he pointed his stick haphazardly to his right.
 
-**the_hemingway** rose up above the clearing in the trees. 
+**the hemingway** rose up above the clearing in the trees. 
 
 +ZOOM+
 
@@ -117,6 +117,6 @@ It was gone.
 
 **Chi** was alone. But she knew one thing for certain.
 
-She had to find **the_shepherd**. He would have all the answers.
+She had to find **the shepherd**. He would have all the answers.
 
-So north she walked, as the mist began to settle on **silent_valley**. 
+So north she walked, as the mist began to settle on **silent valley**. 

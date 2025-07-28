@@ -14,7 +14,7 @@ year: y000 m0 d5
 > the rhythm is \
 > in harmony \
 > 
-> ー the_shepherd :: y100 post-eclipse
+> ー the shepherd :: y100 post-eclipse
 
 ![forest](./kay.png)
 
@@ -22,7 +22,7 @@ year: y000 m0 d5
 
 The rain was getting heavier, and he could see the water level rise before him. It wasn't the flood that he was afraid of, but what followed that was disturbing. The moons were converging, and the eclipse was nearly on its way. 
 
-Down below he could see the animals begin to move up to safer ground. Many of them were used to **the_flood**. Some had developed specialized shelters to wait out the rain, others had adapted their bodies physically to stay submerged for the entire duration of the flood.
+Down below he could see the animals begin to move up to safer ground. Many of them were used to **the flood**. Some had developed specialized shelters to wait out the rain, others had adapted their bodies physically to stay submerged for the entire duration of the flood.
 
 **Rei** had no choice but to stay mobile. Because he knew that if he was found, he would be **hunted**. 
 
@@ -32,13 +32,13 @@ A spear of light grazed his shoulder. **Rei** flinched.
 
 > "I'm in enemy territory now." 🐦‍⬛
 
-He looked around. A rain of arrows started hurling at him from below. One of **the_children** had spotted him.
+He looked around. A rain of arrows started hurling at him from below. One of **the children** had spotted him.
 
 He whipped out a harness knife and switched course.
 
 -BLIP-
 
-Another **light_spear** hurled near his head
+Another **light spear** hurled near his head
 
 -FWO000OM-
 
@@ -68,11 +68,11 @@ The spears hurled at the shadow clone. **Rei** moved ahead through an opening be
 
 +THWACK+
 
-A **shadow_axe** came crashing down and sliced the entire cypress grove in half.
+A **shadow axe** came crashing down and sliced the entire cypress grove in half.
 
 > "how? how could it be?" 🐦‍⬛
 
-Arrows, axes, spears came hurling at him from all directions. **the_children** were not falling for parlor tricks anymore.
+Arrows, axes, spears came hurling at him from all directions. **the children** were not falling for parlor tricks anymore.
 
 > "something has changed" 🐦‍⬛
 
@@ -80,7 +80,7 @@ And then, it happened.
 
 +SCHICK+
 
-A **light_spear** impaled **Rei** in his place. Sliced straight through the heart, skewered into the flooding forest floor.
+A **light spear** impaled **Rei** in his place. Sliced straight through the heart, skewered into the flooding forest floor.
 
 With one last breath, **Rei** tried to free himself, but it was already too late His circuits began to flicker and his body began to disintegrate.
 

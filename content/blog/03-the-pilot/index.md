@@ -53,7 +53,7 @@ A pile of sharp rocks!
 
  > 3 ... 🐦
 
-**the_probe**!
+**the probe**!
 
 > here i come little birdie GWA HA HAH AHA 🐦
 
@@ -66,13 +66,13 @@ DA-DA-DA-DA-DA-DA-DA-DA\
 
 **Chi** ran for cover and snapped her fingers
 
-> +*oooooooooo* :: **the_probe** zoomed past the thicket in a low hum
+> +*oooooooooo* :: **the probe** zoomed past the thicket in a low hum
 
 **Chi** rolled down into a ball and folded her hands in prayer position. she didn't know why she did it. it just seemed to make sense
 
 > +CLAP+
 
-**the_probe** expanded into the size of a room
+**the probe** expanded into the size of a room
 
 > WHA? WHAT? IT CAN'T BE... 🐦
 
@@ -86,16 +86,16 @@ He had a missing leg, an eye-patch, a crutch and a machine gun on his shoulder.
 > RUFFLE ME FEATHERS IT CAN'T BE \
 > WHAT'S IT BEEN? A HUNDRED YEARS? 🐦
 
-*Chi* peered out of the rock she was hiding behind. **the_probe** came back to her behind her.
+*Chi* peered out of the rock she was hiding behind. **the probe** came back to her behind her.
 
 > "Do.. Do I know you?" she stammered
 
 > HO HO HO, KNOW ME? YOU MUST BE JOKING! \
-> TIS I! SAILOR OF THE FLOOD_LANDS! \
+> TIS I! SAILOR OF THE FLOOD LANDS! \
 > THE PILOT OF SAND! \
-> **NO_RAIN**! 🐦
+> **NO RAIN**! 🐦
 
-> "**No_rain**" ? "Have we met before?"
+> "**No rain**" ? "Have we met before?"
 
 > "YOU REALLY DON'T REMEMBER DO YOU?" 🐦
 > Hic. 🐦
@@ -105,7 +105,7 @@ He had a missing leg, an eye-patch, a crutch and a machine gun on his shoulder.
 
 The boat was incredibly large and seemed to float above the air. It had a hundred different buttons, glowing dimly in a repeating pattern. 
 
-She watched as **No_rain** climbed into the helm, setting his crutch against what seemed like the skeleton of a member of his crew.
+She watched as **No rain** climbed into the helm, setting his crutch against what seemed like the skeleton of a member of his crew.
 
 > "DON'T MIND ERNIE, HE'S HARMLESS. HO HO HO HO" 🐦
 

@@ -11,7 +11,7 @@ import silentValleyImage from "../images/silent-valley.png"
 // Helper function to chunk an array into groups of a given size
 function chunkArray(array, size) {
   const result = []
-  for (let i = 1 ; i < array.length; i += size) {
+  for (let i = 0 ; i < array.length; i += size) {
     result.push(array.slice(i, i + size))
   }
   return result

@@ -6,15 +6,15 @@ year: y000 m0 d1
 
 ---
 
-> **the_spiral** is not a loop,  
+> **the spiral** is not a loop,  
 > echoing a legend of  
 > the **spirit**, the sword,  
-> and **the_mountain**.  
+> and **the mountain**.  
 > we wander to begin  
 > at the finish line.  
 > footprints appear  
 > when we look back.  
-> **the_staircase** shifts form,  
+> **the staircase** shifts form,  
 > an endless spiral.  
 > When we look ahead,  
 > cracks in the landing  
@@ -27,9 +27,9 @@ year: y000 m0 d1
 ![spiral](./spiral.png)
 
 
-In the desolate **void** of **the_spiral**, at its lowest rung, lay an **inverted helix**. The chasm was so deep that even the sound of dust hitting the ground echoed endlessly. But that day, from the ground, a faint glowing light emerged. It grew steadily brighter until it filled the space.  
+In the desolate **void** of **the spiral**, at its lowest rung, lay an **inverted helix**. The chasm was so deep that even the sound of dust hitting the ground echoed endlessly. But that day, from the ground, a faint glowing light emerged. It grew steadily brighter until it filled the space.  
 
-The light coalesced into the figure of a small child, curled in a fetal position. **the_child**, completely naked, had long, straight white hair. She raised her head, bewildered.  
+The light coalesced into the figure of a small child, curled in a fetal position. **the child**, completely naked, had long, straight white hair. She raised her head, bewildered.  
 
 > "This is new," she thought. "Everything feels new."  
 > "Who am I?"  
@@ -39,7 +39,7 @@ The light coalesced into the figure of a small child, curled in a fetal position
 She couldn't tell. A faint whisper echoed in her mind. One whisper became two, then three. The whispers grew louder.  
 
 ```
-> yield("CHI");
+> print("CHI");
 ```  
 
 And then, silence.  
@@ -101,7 +101,7 @@ She slammed head first onto the third ledge. It hurt. But she did it. She made i
 
 One step at a time, **Chi** found her way from one ledge to another. 
 
-One step at a time to the top of the first set of stairs of **the_spiral**.
+One step at a time to the top of the first set of stairs of **the spiral**.
 
 Each step seemed to get easier and easier. After the first ten ledges, she made it to a landing. 
 
@@ -124,7 +124,7 @@ Ten flights. She could see a tiny opening at the top above.
 > "Where am I?"
 
 ```
-> "the_spiral"
+> "the spiral"
 ```
 
 > Okay... but where do I need to go?
@@ -157,7 +157,7 @@ Ten flights.
 
 All of a sudden, it seemed like the universe was sucked into **Chi**'s mind. Everything started to come back to her. 
 
-Her memories, **the_hunt**, **the_lilac_altar**, **moonlight_lake**, the **great_battle**, and then **the_flood**, the flood! 
+Her memories, **the hunt**, **the lilac altar**, **moonlight lake**, the **great battle**, and then **the flood**, the flood! 
 
 **Chi**'s pupils dilated, she felt a tightening in her gut. Pain. Intense pain. She couldn't help herself. She had to jump.
 
